@@ -1,0 +1,909 @@
+School,Year,Start Area,Dining Hall
+College of Engineering and Applied Sciences,Class of 2021,South_40,BD
+College of Engineering and Applied Sciences,Class of 2021,Village,Village_Dining
+College of Engineering and Applied Sciences,Class of 2021,AC_Frat_Row,Village_Dining
+College of Engineering and Applied Sciences,Class of 2021,Bio_Psych,DUC
+College of Engineering and Applied Sciences,Class of 2021,Chemistry,DUC
+College of Engineering and Applied Sciences,Class of 2021,Engineering_Quad,DUC
+College of Engineering and Applied Sciences,Class of 2021,Brown_School,DUC
+College of Arts and Sciences,Class of 2022,South_40,BD
+College of Arts and Sciences,Class of 2022,Village,Village_Dining
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,Village_Dining
+College of Arts and Sciences,Class of 2022,Bauer_Law_School,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,DUC_Area,DUC
+College of Arts and Sciences,Class of 2022,Bio_Psych,DUC
+College of Arts and Sciences,Class of 2022,Chemistry,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Brookings_Quad,DUC
+Olin Business School,Class of 2019,South_40,BD
+Olin Business School,Class of 2019,South_40,DUC
+Olin Business School,Class of 2019,Village,DUC
+Olin Business School,Class of 2019,Village,Law_School_Cafeteria
+Olin Business School,Class of 2019,AC_Frat_Row,DUC
+Olin Business School,Class of 2019,AC_Frat_Row,Law_School_Cafeteria
+Olin Business School,Class of 2019,AC_Frat_Row,Whispers
+Olin Business School,Class of 2019,Bauer_Law_School,DUC
+Olin Business School,Class of 2019,Bauer_Law_School,Law_School_Cafeteria
+Olin Business School,Class of 2019,Bauer_Law_School,Whispers
+Olin Business School,Class of 2019,DUC_Area,DUC
+Olin Business School,Class of 2019,DUC_Area,Holmes
+Olin Business School,Class of 2019,DUC_Area,Whispers
+Olin Business School,Class of 2019,Bio_Psych,DUC
+Olin Business School,Class of 2019,Bio_Psych,Holmes
+Olin Business School,Class of 2019,Bio_Psych,Whispers
+Olin Business School,Class of 2019,Engineering_Quad,Hillman
+Olin Business School,Class of 2019,Engineering_Quad,Holmes
+Olin Business School,Class of 2019,Engineering_Quad,Whispers
+Olin Business School,Class of 2019,Brookings_Quad,DUC
+Olin Business School,Class of 2019,Brookings_Quad,Holmes
+Olin Business School,Class of 2019,Brookings_Quad,Whispers
+Olin Business School,Class of 2019,Brown_School,Hillman
+Olin Business School,Class of 2019,Brown_School,Holmes
+Olin Business School,Class of 2019,Brown_School,Whispers
+Olin Business School,Class of 2019,Sam_Fox,Hillman
+Olin Business School,Class of 2019,Sam_Fox,Holmes
+Olin Business School,Class of 2019,Sam_Fox,Whispers
+College of Engineering and Applied Sciences,Class of 2020,South_40,BD
+College of Engineering and Applied Sciences,Class of 2020,South_40,DUC
+College of Engineering and Applied Sciences,Class of 2020,Village,DUC
+College of Engineering and Applied Sciences,Class of 2020,Village,Village_Dining
+College of Engineering and Applied Sciences,Class of 2020,AC_Frat_Row,DUC
+College of Engineering and Applied Sciences,Class of 2020,AC_Frat_Row,Village_Dining
+College of Engineering and Applied Sciences,Class of 2020,DUC_Area,DUC
+College of Engineering and Applied Sciences,Class of 2020,DUC_Area,Holmes
+College of Engineering and Applied Sciences,Class of 2020,DUC_Area,Whispers
+College of Engineering and Applied Sciences,Class of 2020,Bio_Psych,DUC
+College of Engineering and Applied Sciences,Class of 2020,Bio_Psych,Holmes
+College of Engineering and Applied Sciences,Class of 2020,Bio_Psych,Stanleys
+College of Engineering and Applied Sciences,Class of 2020,Bio_Psych,Whispers
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,DUC
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,Stanleys
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,Whispers
+College of Engineering and Applied Sciences,Class of 2020,Northwest_Corner,DUC
+College of Engineering and Applied Sciences,Class of 2020,Northwest_Corner,Holmes
+College of Engineering and Applied Sciences,Class of 2020,Northwest_Corner,Stanleys
+College of Engineering and Applied Sciences,Class of 2020,Northwest_Corner,Whispers
+College of Arts and Sciences,Class of 2021,South_40,BD
+College of Arts and Sciences,Class of 2021,South_40,DUC
+College of Arts and Sciences,Class of 2021,South_40,Einsteins
+College of Arts and Sciences,Class of 2021,South_40,Off_Campus
+College of Arts and Sciences,Class of 2021,Village,DUC
+College of Arts and Sciences,Class of 2021,Village,Einsteins
+College of Arts and Sciences,Class of 2021,AC_Frat_Row,DUC
+College of Arts and Sciences,Class of 2021,AC_Frat_Row,Einsteins
+College of Arts and Sciences,Class of 2021,Bauer_Law_School,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2021,Bauer_Law_School,DUC
+College of Arts and Sciences,Class of 2021,DUC_Area,DUC
+College of Arts and Sciences,Class of 2021,Bio_Psych,DUC
+College of Arts and Sciences,Class of 2021,Bio_Psych,Einsteins
+College of Arts and Sciences,Class of 2021,Brown_School,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2021,Brown_School,DUC
+College of Engineering and Applied Sciences,Class of 2022,South_40,BD
+College of Engineering and Applied Sciences,Class of 2022,Village,Law_School_Cafeteria
+College of Engineering and Applied Sciences,Class of 2022,Village,Village_Dining
+College of Engineering and Applied Sciences,Class of 2022,AC_Frat_Row,DUC
+College of Engineering and Applied Sciences,Class of 2022,AC_Frat_Row,Einsteins
+College of Engineering and Applied Sciences,Class of 2022,AC_Frat_Row,Law_School_Cafeteria
+College of Engineering and Applied Sciences,Class of 2022,DUC_Area,DUC
+College of Engineering and Applied Sciences,Class of 2022,DUC_Area,Einsteins
+College of Engineering and Applied Sciences,Class of 2022,DUC_Area,Law_School_Cafeteria
+College of Engineering and Applied Sciences,Class of 2022,Bio_Psych,DUC
+College of Engineering and Applied Sciences,Class of 2022,Engineering_Quad,DUC
+College of Engineering and Applied Sciences,Class of 2022,Engineering_Quad,Holmes
+College of Engineering and Applied Sciences,Class of 2022,Engineering_Quad,Loop_Dining
+College of Engineering and Applied Sciences,Class of 2022,Engineering_Quad,Stanleys
+College of Arts and Sciences,Class of 2019,South_40,BD
+College of Arts and Sciences,Class of 2019,South_40,DUC
+College of Arts and Sciences,Class of 2019,Village,DUC
+College of Arts and Sciences,Class of 2019,Village,Village_Dining
+College of Arts and Sciences,Class of 2019,AC_Frat_Row,BD
+College of Arts and Sciences,Class of 2019,AC_Frat_Row,DUC
+College of Arts and Sciences,Class of 2019,Bauer_Law_School,BD
+College of Arts and Sciences,Class of 2019,Bauer_Law_School,DUC
+College of Arts and Sciences,Class of 2019,DUC_Area,BD
+College of Arts and Sciences,Class of 2019,DUC_Area,DUC
+College of Arts and Sciences,Class of 2019,Engineering_Quad,DUC
+College of Arts and Sciences,Class of 2019,Engineering_Quad,Holmes
+College of Arts and Sciences,Class of 2019,Brookings_Quad,BD
+College of Arts and Sciences,Class of 2019,Brookings_Quad,DUC
+College of Arts and Sciences,Class of 2019,South_40,BD
+College of Arts and Sciences,Class of 2019,South_40,DUC
+College of Arts and Sciences,Class of 2019,Village,DUC
+College of Arts and Sciences,Class of 2019,Village,Village_Dining
+College of Arts and Sciences,Class of 2019,AC_Frat_Row,BD
+College of Arts and Sciences,Class of 2019,AC_Frat_Row,DUC
+College of Arts and Sciences,Class of 2019,Bauer_Law_School,DUC
+College of Arts and Sciences,Class of 2019,DUC_Area,DUC
+College of Arts and Sciences,Class of 2019,Bio_Psych,DUC
+College of Arts and Sciences,Class of 2019,Bio_Psych,Hillman
+College of Arts and Sciences,Class of 2019,Bio_Psych,Whispers
+College of Arts and Sciences,Class of 2019,Chemistry,DUC
+College of Arts and Sciences,Class of 2019,Chemistry,Whispers
+College of Arts and Sciences,Class of 2021,South_40,BD
+College of Arts and Sciences,Class of 2021,Village,Village_Dining
+College of Arts and Sciences,Class of 2021,AC_Frat_Row,BD
+College of Arts and Sciences,Class of 2021,AC_Frat_Row,DUC
+College of Arts and Sciences,Class of 2021,AC_Frat_Row,Einsteins
+College of Arts and Sciences,Class of 2021,Bauer_Law_School,BD
+College of Arts and Sciences,Class of 2021,DUC_Area,DUC
+College of Arts and Sciences,Class of 2021,DUC_Area,Subway
+College of Engineering and Applied Sciences,Class of 2019,South_40,BD
+College of Engineering and Applied Sciences,Class of 2019,Village,Bauer_Hall_Cafe
+College of Engineering and Applied Sciences,Class of 2019,Village,Village_Dining
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,DUC
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,Village_Dining
+College of Engineering and Applied Sciences,Class of 2019,Bauer_Law_School,Bauer_Hall_Cafe
+College of Engineering and Applied Sciences,Class of 2019,Bauer_Law_School,DUC
+College of Engineering and Applied Sciences,Class of 2019,DUC_Area,DUC
+College of Engineering and Applied Sciences,Class of 2019,DUC_Area,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Bio_Psych,DUC
+College of Engineering and Applied Sciences,Class of 2019,Bio_Psych,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Chemistry,DUC
+College of Engineering and Applied Sciences,Class of 2019,Chemistry,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Engineering_Quad,DUC
+College of Engineering and Applied Sciences,Class of 2019,Engineering_Quad,Stanleys
+College of Engineering and Applied Sciences,Class of 2019,Engineering_Quad,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Brookings_Quad,DUC
+College of Engineering and Applied Sciences,Class of 2019,Brookings_Quad,Holmes
+College of Engineering and Applied Sciences,Class of 2019,Brown_School,DUC
+College of Engineering and Applied Sciences,Class of 2019,Sam_Fox,DUC
+College of Engineering and Applied Sciences,Class of 2019,Northwest_Corner,Stanleys
+College of Arts and Sciences,Class of 2019,South_40,BD
+College of Arts and Sciences,Class of 2019,Village,Village_Dining
+College of Arts and Sciences,Class of 2019,AC_Frat_Row,BD
+College of Arts and Sciences,Class of 2019,Bauer_Law_School,DUC
+College of Arts and Sciences,Class of 2019,DUC_Area,DUC
+College of Arts and Sciences,Class of 2019,Bio_Psych,DUC
+College of Arts and Sciences,Class of 2019,Chemistry,DUC
+College of Arts and Sciences,Class of 2019,Brookings_Quad,DUC
+College of Arts and Sciences,Class of 2019,South_40,DUC
+College of Arts and Sciences,Class of 2019,Village,DUC
+College of Arts and Sciences,Class of 2019,AC_Frat_Row,DUC
+College of Arts and Sciences,Class of 2019,DUC_Area,DUC
+College of Arts and Sciences,Class of 2019,Bio_Psych,DUC
+College of Engineering and Applied Sciences,Class of 2020,South_40,BD
+College of Engineering and Applied Sciences,Class of 2020,South_40,DUC
+College of Engineering and Applied Sciences,Class of 2020,Village,DUC
+College of Engineering and Applied Sciences,Class of 2020,Village,Village_Dining
+College of Engineering and Applied Sciences,Class of 2020,AC_Frat_Row,DUC
+College of Engineering and Applied Sciences,Class of 2020,Bio_Psych,DUC
+College of Engineering and Applied Sciences,Class of 2020,Bio_Psych,Hillman
+College of Engineering and Applied Sciences,Class of 2020,Bio_Psych,Holmes
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,DUC
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,Stanleys
+College of Engineering and Applied Sciences,Class of 2020,Northwest_Corner,DUC
+College of Engineering and Applied Sciences,Class of 2020,Northwest_Corner,Stanleys
+College of Arts and Sciences,Class of 2021,South_40,BD
+College of Arts and Sciences,Class of 2021,Village,DUC
+College of Arts and Sciences,Class of 2021,AC_Frat_Row,DUC
+College of Arts and Sciences,Class of 2021,DUC_Area,DUC
+College of Arts and Sciences,Class of 2021,DUC_Area,Einsteins
+College of Arts and Sciences,Class of 2021,Bio_Psych,DUC
+College of Arts and Sciences,Class of 2021,Bio_Psych,Holmes
+College of Arts and Sciences,Class of 2021,Chemistry,DUC
+College of Arts and Sciences,Class of 2021,Engineering_Quad,DUC
+College of Arts and Sciences,Class of 2021,Brookings_Quad,DUC
+College of Arts and Sciences,Class of 2021,Brown_School,DUC
+College of Arts and Sciences,Class of 2022,South_40,BD
+College of Arts and Sciences,Class of 2022,South_40,Einsteins
+College of Arts and Sciences,Class of 2022,South_40,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Village,DUC
+College of Arts and Sciences,Class of 2022,Village,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Village,Village_Dining
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,DUC
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,Einsteins
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,Village_Dining
+College of Arts and Sciences,Class of 2022,Engineering_Quad,DUC
+College of Arts and Sciences,Class of 2022,Engineering_Quad,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Brookings_Quad,DUC
+College of Arts and Sciences,Class of 2022,Brookings_Quad,Holmes
+College of Arts and Sciences,Class of 2022,Brookings_Quad,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Brookings_Quad,Whispers
+College of Arts and Sciences,Class of 2022,Brown_School,Holmes
+College of Arts and Sciences,Class of 2022,Brown_School,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Brown_School,Whispers
+College of Engineering and Applied Sciences,Class of 2022,South_40,DUC
+College of Engineering and Applied Sciences,Class of 2022,Village,DUC
+College of Engineering and Applied Sciences,Class of 2022,AC_Frat_Row,DUC
+College of Engineering and Applied Sciences,Class of 2022,Bauer_Law_School,Law_School_Cafeteria
+College of Engineering and Applied Sciences,Class of 2022,DUC_Area,DUC
+College of Engineering and Applied Sciences,Class of 2022,Bio_Psych,Law_School_Cafeteria
+College of Engineering and Applied Sciences,Class of 2022,Chemistry,Law_School_Cafeteria
+College of Engineering and Applied Sciences,Class of 2022,Engineering_Quad,Holmes
+College of Engineering and Applied Sciences,Class of 2022,Brookings_Quad,Law_School_Cafeteria
+College of Engineering and Applied Sciences,Class of 2019,South_40,BD
+College of Engineering and Applied Sciences,Class of 2019,Village,Village_Dining
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,BD
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,DUC
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,Holmes
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,Stanleys
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,Subway
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Chemistry,DUC
+College of Engineering and Applied Sciences,Class of 2019,Chemistry,Stanleys
+College of Engineering and Applied Sciences,Class of 2019,Chemistry,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Engineering_Quad,DUC
+College of Engineering and Applied Sciences,Class of 2019,Engineering_Quad,Stanleys
+College of Engineering and Applied Sciences,Class of 2019,Northwest_Corner,DUC
+College of Engineering and Applied Sciences,Class of 2019,Northwest_Corner,Stanleys
+College of Engineering and Applied Sciences,Class of 2019,Northwest_Corner,Subway
+College of Engineering and Applied Sciences,Class of 2019,Northwest_Corner,Whispers
+College of Arts and Sciences,Class of 2020,South_40,BD
+College of Arts and Sciences,Class of 2020,South_40,Loop_Dining
+College of Arts and Sciences,Class of 2020,South_40,Village_Dining
+College of Arts and Sciences,Class of 2020,Village,Loop_Dining
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,DUC
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,Loop_Dining
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,Village_Dining
+College of Arts and Sciences,Class of 2020,DUC_Area,DUC
+College of Arts and Sciences,Class of 2020,DUC_Area,Loop_Dining
+College of Arts and Sciences,Class of 2020,DUC_Area,Village_Dining
+College of Arts and Sciences,Class of 2020,Brookings_Quad,DUC
+College of Arts and Sciences,Class of 2020,Brookings_Quad,Loop_Dining
+College of Arts and Sciences,Class of 2020,Brookings_Quad,Village_Dining
+College of Arts and Sciences,Class of 2020,South_40,BD
+College of Arts and Sciences,Class of 2020,Village,Village_Dining
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,BD
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,DUC
+College of Arts and Sciences,Class of 2020,Bauer_Law_School,BD
+College of Arts and Sciences,Class of 2020,Bauer_Law_School,DUC
+College of Arts and Sciences,Class of 2020,DUC_Area,DUC
+College of Arts and Sciences,Class of 2020,Bio_Psych,DUC
+College of Arts and Sciences,Class of 2020,Chemistry,DUC
+College of Arts and Sciences,Class of 2020,Engineering_Quad,DUC
+College of Arts and Sciences,Class of 2020,Brookings_Quad,DUC
+College of Arts and Sciences,Class of 2020,Brown_School,DUC
+College of Arts and Sciences,Class of 2022,South_40,BD
+College of Arts and Sciences,Class of 2022,Village,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Village,Village_Dining
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Bauer_Law_School,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2022,Bauer_Law_School,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,DUC_Area,Einsteins
+College of Arts and Sciences,Class of 2022,DUC_Area,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,DUC_Area,Village_Dining
+College of Arts and Sciences,Class of 2022,Bio_Psych,Holmes
+College of Arts and Sciences,Class of 2022,Bio_Psych,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Bio_Psych,Stanleys
+College of Arts and Sciences,Class of 2022,Brookings_Quad,Holmes
+College of Arts and Sciences,Class of 2022,Brookings_Quad,Subway
+College of Arts and Sciences,Class of 2022,Brown_School,Holmes
+College of Arts and Sciences,Class of 2022,Brown_School,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,South_40,BD
+College of Arts and Sciences,Class of 2022,Village,BD
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,BD
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,DUC
+College of Arts and Sciences,Class of 2022,DUC_Area,DUC
+College of Arts and Sciences,Class of 2022,Chemistry,DUC
+College of Arts and Sciences,Class of 2022,Brookings_Quad,DUC
+College of Arts and Sciences,Class of 2022,South_40,BD
+College of Arts and Sciences,Class of 2022,Village,Off_Campus
+College of Arts and Sciences,Class of 2022,Village,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Bauer_Law_School,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,DUC_Area,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Bio_Psych,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Chemistry,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Brookings_Quad,Whispers
+College of Arts and Sciences,Class of 2022,Brown_School,Hillman
+College of Arts and Sciences,Class of 2022,South_40,BD
+College of Arts and Sciences,Class of 2022,South_40,DUC
+College of Arts and Sciences,Class of 2022,South_40,Einsteins
+College of Arts and Sciences,Class of 2022,South_40,Ettas
+College of Arts and Sciences,Class of 2022,South_40,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,South_40,Village_Dining
+College of Arts and Sciences,Class of 2022,Village,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Village,Village_Dining
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,DUC
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,Village_Dining
+College of Arts and Sciences,Class of 2022,Bauer_Law_School,DUC
+College of Arts and Sciences,Class of 2022,Bauer_Law_School,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,DUC_Area,DUC
+College of Arts and Sciences,Class of 2022,DUC_Area,Holmes
+College of Arts and Sciences,Class of 2022,Brookings_Quad,DUC
+College of Arts and Sciences,Class of 2022,Brookings_Quad,Holmes
+College of Arts and Sciences,Class of 2022,Brookings_Quad,Whispers
+College of Arts and Sciences,Class of 2022,Sam_Fox,DUC
+College of Arts and Sciences,Class of 2022,Sam_Fox,Ettas
+College of Arts and Sciences,Class of 2022,Sam_Fox,Hillman
+College of Arts and Sciences,Class of 2022,Sam_Fox,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2021,South_40,BD
+College of Arts and Sciences,Class of 2021,Village,Village_Dining
+College of Arts and Sciences,Class of 2021,AC_Frat_Row,DUC
+College of Arts and Sciences,Class of 2021,AC_Frat_Row,Holmes
+College of Arts and Sciences,Class of 2021,AC_Frat_Row,Whispers
+College of Arts and Sciences,Class of 2021,DUC_Area,DUC
+College of Arts and Sciences,Class of 2021,DUC_Area,Einsteins
+College of Arts and Sciences,Class of 2021,DUC_Area,Holmes
+College of Arts and Sciences,Class of 2021,DUC_Area,Whispers
+College of Arts and Sciences,Class of 2021,Bio_Psych,Hillman
+College of Arts and Sciences,Class of 2021,Bio_Psych,Holmes
+College of Arts and Sciences,Class of 2021,Bio_Psych,Whispers
+College of Arts and Sciences,Class of 2021,Chemistry,DUC
+College of Arts and Sciences,Class of 2021,Chemistry,Hillman
+College of Arts and Sciences,Class of 2021,Chemistry,Holmes
+College of Arts and Sciences,Class of 2021,Chemistry,Whispers
+College of Arts and Sciences,Class of 2021,Brookings_Quad,Hillman
+College of Arts and Sciences,Class of 2021,Brookings_Quad,Whispers
+College of Arts and Sciences,Class of 2021,Brown_School,Hillman
+College of Arts and Sciences,Class of 2021,Brown_School,Holmes
+College of Arts and Sciences,Class of 2021,Brown_School,Whispers
+College of Arts and Sciences,Class of 2022,South_40,BD
+College of Arts and Sciences,Class of 2022,South_40,DUC
+College of Arts and Sciences,Class of 2022,Village,BD
+College of Arts and Sciences,Class of 2022,Village,Village_Dining
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,BD
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,DUC
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,Village_Dining
+College of Arts and Sciences,Class of 2022,DUC_Area,BD
+College of Arts and Sciences,Class of 2022,DUC_Area,DUC
+College of Arts and Sciences,Class of 2022,DUC_Area,Whispers
+College of Arts and Sciences,Class of 2022,Bio_Psych,Subway
+College of Arts and Sciences,Class of 2022,Bio_Psych,Whispers
+College of Arts and Sciences,Class of 2022,Chemistry,DUC
+College of Arts and Sciences,Class of 2022,Chemistry,Whispers
+College of Arts and Sciences,Class of 2022,Engineering_Quad,BD
+College of Arts and Sciences,Class of 2022,Brookings_Quad,BD
+College of Arts and Sciences,Class of 2022,Brookings_Quad,DUC
+College of Arts and Sciences,Class of 2022,Brookings_Quad,Whispers
+College of Arts and Sciences,Class of 2022,Brown_School,DUC
+College of Arts and Sciences,Class of 2022,Brown_School,Subway
+College of Arts and Sciences,Class of 2020,South_40,DUC
+College of Arts and Sciences,Class of 2020,Village,DUC
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,DUC
+College of Arts and Sciences,Class of 2020,DUC_Area,DUC
+College of Arts and Sciences,Class of 2020,Bio_Psych,Stanleys
+College of Arts and Sciences,Class of 2020,Chemistry,Whispers
+College of Arts and Sciences,Class of 2020,Engineering_Quad,DUC
+College of Arts and Sciences,Class of 2020,Brookings_Quad,DUC
+College of Arts and Sciences,Class of 2020,Brown_School,DUC
+College of Engineering and Applied Sciences,Class of 2019,South_40,Einsteins
+College of Engineering and Applied Sciences,Class of 2019,Village,Law_School_Cafeteria
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,Law_School_Cafeteria
+College of Engineering and Applied Sciences,Class of 2019,Bio_Psych,DUC
+College of Engineering and Applied Sciences,Class of 2019,Engineering_Quad,DUC
+College of Engineering and Applied Sciences,Class of 2019,Brookings_Quad,DUC
+College of Engineering and Applied Sciences,Class of 2019,Sam_Fox,DUC
+College of Engineering and Applied Sciences,Class of 2019,Northwest_Corner,Einsteins
+College of Engineering and Applied Sciences,Class of 2020,South_40,BD
+College of Engineering and Applied Sciences,Class of 2020,South_40,DUC
+College of Engineering and Applied Sciences,Class of 2020,Village,DUC
+College of Engineering and Applied Sciences,Class of 2020,Village,Village_Dining
+College of Engineering and Applied Sciences,Class of 2020,AC_Frat_Row,DUC
+College of Engineering and Applied Sciences,Class of 2020,DUC_Area,DUC
+College of Engineering and Applied Sciences,Class of 2020,Bio_Psych,DUC
+College of Engineering and Applied Sciences,Class of 2020,Chemistry,DUC
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,DUC
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,Stanleys
+College of Engineering and Applied Sciences,Class of 2020,Brookings_Quad,DUC
+College of Engineering and Applied Sciences,Class of 2020,Northwest_Corner,DUC
+College of Engineering and Applied Sciences,Class of 2020,Northwest_Corner,Off_Campus
+College of Engineering and Applied Sciences,Class of 2020,Northwest_Corner,Stanleys
+College of Engineering and Applied Sciences,Class of 2020,South_40,BD
+College of Engineering and Applied Sciences,Class of 2020,Village,DUC
+College of Engineering and Applied Sciences,Class of 2020,Village,Whispers
+College of Engineering and Applied Sciences,Class of 2020,AC_Frat_Row,DUC
+College of Engineering and Applied Sciences,Class of 2020,AC_Frat_Row,Subway
+College of Engineering and Applied Sciences,Class of 2020,AC_Frat_Row,Whispers
+College of Engineering and Applied Sciences,Class of 2020,DUC_Area,DUC
+College of Engineering and Applied Sciences,Class of 2020,DUC_Area,Whispers
+College of Engineering and Applied Sciences,Class of 2020,Bio_Psych,Hillman
+College of Engineering and Applied Sciences,Class of 2020,Bio_Psych,Whispers
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,Stanleys
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,Whispers
+College of Engineering and Applied Sciences,Class of 2020,Brookings_Quad,Stanleys
+College of Engineering and Applied Sciences,Class of 2020,Brookings_Quad,Whispers
+College of Engineering and Applied Sciences,Class of 2019,South_40,BD
+College of Engineering and Applied Sciences,Class of 2019,Village,DUC
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,DUC
+College of Engineering and Applied Sciences,Class of 2019,DUC_Area,DUC
+College of Engineering and Applied Sciences,Class of 2019,Bio_Psych,DUC
+College of Engineering and Applied Sciences,Class of 2019,Brookings_Quad,DUC
+College of Engineering and Applied Sciences,Class of 2020,South_40,BD
+College of Engineering and Applied Sciences,Class of 2020,Village,DUC
+College of Engineering and Applied Sciences,Class of 2020,Village,Village_Dining
+College of Engineering and Applied Sciences,Class of 2020,AC_Frat_Row,DUC
+College of Engineering and Applied Sciences,Class of 2020,AC_Frat_Row,Village_Dining
+College of Engineering and Applied Sciences,Class of 2020,Bauer_Law_School,Bauer_Hall_Cafe
+College of Engineering and Applied Sciences,Class of 2020,Bauer_Law_School,DUC
+College of Engineering and Applied Sciences,Class of 2020,DUC_Area,DUC
+College of Engineering and Applied Sciences,Class of 2020,Bio_Psych,DUC
+College of Engineering and Applied Sciences,Class of 2020,Chemistry,DUC
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,DUC
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,Off_Campus
+College of Engineering and Applied Sciences,Class of 2020,Brookings_Quad,DUC
+College of Engineering and Applied Sciences,Class of 2020,Brookings_Quad,Off_Campus
+College of Engineering and Applied Sciences,Class of 2020,Brown_School,DUC
+College of Engineering and Applied Sciences,Class of 2020,Brown_School,Off_Campus
+College of Engineering and Applied Sciences,Class of 2020,Sam_Fox,DUC
+College of Engineering and Applied Sciences,Class of 2020,Northwest_Corner,DUC
+College of Engineering and Applied Sciences,Class of 2020,Northwest_Corner,Off_Campus
+College of Engineering and Applied Sciences,Class of 2019,South_40,BD
+College of Engineering and Applied Sciences,Class of 2019,Village,Village_Dining
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,Village_Dining
+College of Engineering and Applied Sciences,Class of 2019,DUC_Area,DUC
+College of Engineering and Applied Sciences,Class of 2019,Bio_Psych,DUC
+College of Engineering and Applied Sciences,Class of 2019,Chemistry,DUC
+College of Engineering and Applied Sciences,Class of 2019,Engineering_Quad,Stanleys
+College of Engineering and Applied Sciences,Class of 2019,South_40,Bauer_Hall_Cafe
+College of Engineering and Applied Sciences,Class of 2019,South_40,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Village,DUC
+College of Engineering and Applied Sciences,Class of 2019,Village,Loop_Dining
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,DUC
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,Off_Campus
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,Subway
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Bauer_Law_School,DUC
+College of Engineering and Applied Sciences,Class of 2019,Bauer_Law_School,Off_Campus
+College of Engineering and Applied Sciences,Class of 2019,Bauer_Law_School,Loop_Dining
+College of Engineering and Applied Sciences,Class of 2019,DUC_Area,BD
+College of Engineering and Applied Sciences,Class of 2019,DUC_Area,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Bio_Psych,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Engineering_Quad,DUC
+College of Engineering and Applied Sciences,Class of 2019,Engineering_Quad,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Brookings_Quad,Bauer_Hall_Cafe
+College of Engineering and Applied Sciences,Class of 2019,Brookings_Quad,DUC
+College of Engineering and Applied Sciences,Class of 2019,Brookings_Quad,Off_Campus
+College of Engineering and Applied Sciences,Class of 2019,Brookings_Quad,Whispers
+College of Arts and Sciences,Class of 2020,South_40,BD
+College of Arts and Sciences,Class of 2020,Village,Village_Dining
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,DUC
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,Village_Dining
+College of Arts and Sciences,Class of 2020,Bauer_Law_School,Hillman
+College of Arts and Sciences,Class of 2020,Bauer_Law_School,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2020,Bio_Psych,DUC
+College of Arts and Sciences,Class of 2020,Bio_Psych,Holmes
+College of Arts and Sciences,Class of 2022,South_40,BD
+College of Arts and Sciences,Class of 2022,South_40,DUC
+College of Arts and Sciences,Class of 2022,South_40,Einsteins
+College of Arts and Sciences,Class of 2022,Village,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,Village_Dining
+College of Arts and Sciences,Class of 2022,Bauer_Law_School,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2022,Bauer_Law_School,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,DUC_Area,Einsteins
+College of Arts and Sciences,Class of 2022,Engineering_Quad,Holmes
+College of Arts and Sciences,Class of 2022,Engineering_Quad,Whispers
+College of Arts and Sciences,Class of 2022,Sam_Fox,Off_Campus
+College of Arts and Sciences,Class of 2019,South_40,BD
+College of Arts and Sciences,Class of 2019,South_40,Whispers
+College of Arts and Sciences,Class of 2019,Village,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2019,Village,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2019,Village,Village_Dining
+College of Arts and Sciences,Class of 2019,AC_Frat_Row,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2019,AC_Frat_Row,Einsteins
+College of Arts and Sciences,Class of 2019,AC_Frat_Row,Village_Dining
+College of Arts and Sciences,Class of 2019,Bauer_Law_School,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2019,Bauer_Law_School,DUC
+College of Arts and Sciences,Class of 2019,Bauer_Law_School,Einsteins
+College of Arts and Sciences,Class of 2019,Bauer_Law_School,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2019,DUC_Area,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2019,DUC_Area,DUC
+College of Arts and Sciences,Class of 2019,DUC_Area,Einsteins
+College of Arts and Sciences,Class of 2019,DUC_Area,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2019,DUC_Area,Village_Dining
+College of Arts and Sciences,Class of 2019,Brookings_Quad,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2019,Brookings_Quad,Einsteins
+College of Arts and Sciences,Class of 2019,Brookings_Quad,Subway
+College of Arts and Sciences,Class of 2019,Brookings_Quad,Village_Dining
+College of Arts and Sciences,Class of 2022,South_40,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Village,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,BD
+College of Arts and Sciences,Class of 2022,Bauer_Law_School,DUC
+College of Arts and Sciences,Class of 2022,Bauer_Law_School,Einsteins
+College of Arts and Sciences,Class of 2022,DUC_Area,Holmes
+College of Arts and Sciences,Class of 2022,DUC_Area,Whispers
+College of Arts and Sciences,Class of 2022,Chemistry,Einsteins
+College of Arts and Sciences,Class of 2022,Brookings_Quad,DUC
+College of Arts and Sciences,Class of 2022,Brown_School,Holmes
+Olin Business School,Class of 2022,South_40,Whispers
+Olin Business School,Class of 2022,Village,Bauer_Hall_Cafe
+Olin Business School,Class of 2022,Village,Whispers
+Olin Business School,Class of 2022,AC_Frat_Row,BD
+Olin Business School,Class of 2022,AC_Frat_Row,DUC
+Olin Business School,Class of 2022,Bauer_Law_School,DUC
+Olin Business School,Class of 2022,Bauer_Law_School,Einsteins
+Olin Business School,Class of 2022,Bauer_Law_School,Whispers
+Olin Business School,Class of 2022,DUC_Area,Bauer_Hall_Cafe
+Olin Business School,Class of 2022,DUC_Area,BD
+Olin Business School,Class of 2022,DUC_Area,DUC
+Olin Business School,Class of 2022,DUC_Area,Einsteins
+Olin Business School,Class of 2022,DUC_Area,Whispers
+Olin Business School,Class of 2022,Bio_Psych,Holmes
+Olin Business School,Class of 2022,Bio_Psych,Whispers
+Olin Business School,Class of 2022,Chemistry,Holmes
+Olin Business School,Class of 2022,Chemistry,Whispers
+Olin Business School,Class of 2022,Engineering_Quad,Whispers
+Olin Business School,Class of 2022,Brookings_Quad,Holmes
+Olin Business School,Class of 2022,Brookings_Quad,Whispers
+Olin Business School,Class of 2022,Brown_School,Holmes
+College of Arts and Sciences,Class of 2020,South_40,DUC
+College of Arts and Sciences,Class of 2020,Village,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,DUC
+College of Arts and Sciences,Class of 2020,Bauer_Law_School,Whispers
+College of Arts and Sciences,Class of 2020,DUC_Area,DUC
+College of Arts and Sciences,Class of 2020,Bio_Psych,Whispers
+College of Arts and Sciences,Class of 2020,Chemistry,Whispers
+College of Arts and Sciences,Class of 2020,Engineering_Quad,Stanleys
+College of Arts and Sciences,Class of 2020,Brookings_Quad,Off_Campus
+College of Arts and Sciences,Class of 2020,Brown_School,Hillman
+College of Arts and Sciences,Class of 2020,Sam_Fox,Ettas
+Olin Business School,Class of 2019,South_40,BD
+Olin Business School,Class of 2019,Village,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,AC_Frat_Row,DUC
+Olin Business School,Class of 2019,Bauer_Law_School,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,DUC_Area,DUC
+Olin Business School,Class of 2019,Bio_Psych,Subway
+Olin Business School,Class of 2019,Chemistry,Subway
+Olin Business School,Class of 2019,Brown_School,DUC
+Olin Business School,Class of 2020,South_40,BD
+Olin Business School,Class of 2020,Village,Village_Dining
+Olin Business School,Class of 2020,AC_Frat_Row,DUC
+Olin Business School,Class of 2020,AC_Frat_Row,Einsteins
+Olin Business School,Class of 2020,AC_Frat_Row,Subway
+Olin Business School,Class of 2020,AC_Frat_Row,Village_Dining
+Olin Business School,Class of 2020,Bauer_Law_School,Bauer_Hall_Cafe
+Olin Business School,Class of 2020,Bauer_Law_School,DUC
+Olin Business School,Class of 2020,Bauer_Law_School,Einsteins
+Olin Business School,Class of 2020,Bauer_Law_School,Law_School_Cafeteria
+Olin Business School,Class of 2020,Bauer_Law_School,Whispers
+Olin Business School,Class of 2020,DUC_Area,Bauer_Hall_Cafe
+Olin Business School,Class of 2020,DUC_Area,DUC
+Olin Business School,Class of 2020,DUC_Area,Einsteins
+Olin Business School,Class of 2020,DUC_Area,Subway
+Olin Business School,Class of 2020,DUC_Area,Whispers
+Olin Business School,Class of 2020,Bio_Psych,DUC
+Olin Business School,Class of 2020,Bio_Psych,Holmes
+Olin Business School,Class of 2020,Bio_Psych,Subway
+Olin Business School,Class of 2020,Bio_Psych,Whispers
+Olin Business School,Class of 2020,Chemistry,Bauer_Hall_Cafe
+Olin Business School,Class of 2020,Chemistry,DUC
+Olin Business School,Class of 2020,Chemistry,Subway
+Olin Business School,Class of 2020,Chemistry,Whispers
+Olin Business School,Class of 2020,Engineering_Quad,DUC
+Olin Business School,Class of 2020,Engineering_Quad,Holmes
+Olin Business School,Class of 2020,Engineering_Quad,Subway
+Olin Business School,Class of 2020,Engineering_Quad,Whispers
+Olin Business School,Class of 2020,Brookings_Quad,DUC
+Olin Business School,Class of 2020,Brookings_Quad,Holmes
+Olin Business School,Class of 2020,Brookings_Quad,Off_Campus
+Olin Business School,Class of 2020,Brookings_Quad,Whispers
+College of Arts and Sciences,Class of 2020,South_40,BD
+College of Arts and Sciences,Class of 2020,South_40,Einsteins
+College of Arts and Sciences,Class of 2020,South_40,Loop_Dining
+College of Arts and Sciences,Class of 2020,South_40,Subway
+College of Arts and Sciences,Class of 2020,South_40,Whispers
+College of Arts and Sciences,Class of 2020,Village,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2020,Village,DUC
+College of Arts and Sciences,Class of 2020,Village,Einsteins
+College of Arts and Sciences,Class of 2020,Village,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2020,Village,Loop_Dining
+College of Arts and Sciences,Class of 2020,Village,Village_Dining
+College of Arts and Sciences,Class of 2020,Village,Whispers
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,DUC
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,Einsteins
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,Loop_Dining
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,Village_Dining
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,Whispers
+College of Arts and Sciences,Class of 2020,DUC_Area,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2020,DUC_Area,DUC
+College of Arts and Sciences,Class of 2020,DUC_Area,Einsteins
+College of Arts and Sciences,Class of 2020,DUC_Area,Loop_Dining
+College of Arts and Sciences,Class of 2020,Brookings_Quad,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2020,Brookings_Quad,DUC
+College of Arts and Sciences,Class of 2020,Brookings_Quad,Einsteins
+College of Arts and Sciences,Class of 2020,Brookings_Quad,Hillman
+College of Arts and Sciences,Class of 2020,Brookings_Quad,Loop_Dining
+College of Arts and Sciences,Class of 2020,Brookings_Quad,Whispers
+College of Arts and Sciences,Class of 2020,Brown_School,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2020,Brown_School,DUC
+College of Arts and Sciences,Class of 2020,Brown_School,Einsteins
+College of Arts and Sciences,Class of 2020,Brown_School,Off_Campus
+College of Arts and Sciences,Class of 2020,Brown_School,Loop_Dining
+College of Arts and Sciences,Class of 2020,Brown_School,Whispers
+Sam Fox College of Art and Architecture,Class of 2021,South_40,BD
+Sam Fox College of Art and Architecture,Class of 2021,South_40,Ettas
+Sam Fox College of Art and Architecture,Class of 2021,Village,Ettas
+Sam Fox College of Art and Architecture,Class of 2021,Village,Village_Dining
+Sam Fox College of Art and Architecture,Class of 2021,AC_Frat_Row,BD
+Sam Fox College of Art and Architecture,Class of 2021,DUC_Area,Einsteins
+Sam Fox College of Art and Architecture,Class of 2021,DUC_Area,Ettas
+Sam Fox College of Art and Architecture,Class of 2021,DUC_Area,Subway
+Sam Fox College of Art and Architecture,Class of 2021,Bio_Psych,Subway
+Sam Fox College of Art and Architecture,Class of 2021,Chemistry,Subway
+Sam Fox College of Art and Architecture,Class of 2021,Chemistry,Whispers
+Sam Fox College of Art and Architecture,Class of 2021,Engineering_Quad,BD
+Sam Fox College of Art and Architecture,Class of 2021,Engineering_Quad,Ettas
+Sam Fox College of Art and Architecture,Class of 2021,Brookings_Quad,Subway
+Sam Fox College of Art and Architecture,Class of 2021,Brookings_Quad,Whispers
+Sam Fox College of Art and Architecture,Class of 2021,Sam_Fox,BD
+Sam Fox College of Art and Architecture,Class of 2021,Sam_Fox,Ettas
+Sam Fox College of Art and Architecture,Class of 2021,Sam_Fox,Off_Campus
+Sam Fox College of Art and Architecture,Class of 2021,Northwest_Corner,Ettas
+Sam Fox College of Art and Architecture,Class of 2021,Northwest_Corner,Off_Campus
+Olin Business School,Class of 2021,South_40,Bauer_Hall_Cafe
+Olin Business School,Class of 2021,South_40,BD
+Olin Business School,Class of 2021,South_40,DUC
+Olin Business School,Class of 2021,South_40,Einsteins
+Olin Business School,Class of 2021,South_40,Loop_Dining
+Olin Business School,Class of 2021,South_40,Village_Dining
+Olin Business School,Class of 2021,Village,Bauer_Hall_Cafe
+Olin Business School,Class of 2021,Village,DUC
+Olin Business School,Class of 2021,Village,Einsteins
+Olin Business School,Class of 2021,AC_Frat_Row,BD
+Olin Business School,Class of 2021,AC_Frat_Row,DUC
+Olin Business School,Class of 2021,AC_Frat_Row,Einsteins
+Olin Business School,Class of 2021,AC_Frat_Row,Village_Dining
+Olin Business School,Class of 2021,Bauer_Law_School,Bauer_Hall_Cafe
+Olin Business School,Class of 2021,Bauer_Law_School,BD
+Olin Business School,Class of 2021,Bauer_Law_School,DUC
+Olin Business School,Class of 2021,Bauer_Law_School,Einsteins
+Olin Business School,Class of 2021,Bauer_Law_School,Subway
+Olin Business School,Class of 2021,Bauer_Law_School,Village_Dining
+Olin Business School,Class of 2021,DUC_Area,BD
+Olin Business School,Class of 2021,DUC_Area,DUC
+Olin Business School,Class of 2021,DUC_Area,Einsteins
+Olin Business School,Class of 2021,DUC_Area,Subway
+Sam Fox College of Art and Architecture,Class of 2021,South_40,BD
+Sam Fox College of Art and Architecture,Class of 2021,Village,BD
+Sam Fox College of Art and Architecture,Class of 2021,AC_Frat_Row,DUC
+Sam Fox College of Art and Architecture,Class of 2021,Bauer_Law_School,BD
+Sam Fox College of Art and Architecture,Class of 2021,Bauer_Law_School,DUC
+Sam Fox College of Art and Architecture,Class of 2021,DUC_Area,BD
+Sam Fox College of Art and Architecture,Class of 2021,DUC_Area,DUC
+Sam Fox College of Art and Architecture,Class of 2021,Bio_Psych,DUC
+Sam Fox College of Art and Architecture,Class of 2021,Chemistry,DUC
+Sam Fox College of Art and Architecture,Class of 2021,Engineering_Quad,DUC
+Sam Fox College of Art and Architecture,Class of 2021,Brookings_Quad,Ettas
+Sam Fox College of Art and Architecture,Class of 2021,Brown_School,Ettas
+Sam Fox College of Art and Architecture,Class of 2021,Sam_Fox,Ettas
+Sam Fox College of Art and Architecture,Class of 2021,Northwest_Corner,Ettas
+Olin Business School,Class of 2019,South_40,BD
+Olin Business School,Class of 2019,South_40,Einsteins
+Olin Business School,Class of 2019,South_40,Whispers
+Olin Business School,Class of 2019,Village,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,Village,Einsteins
+Olin Business School,Class of 2019,Village,Village_Dining
+Olin Business School,Class of 2019,AC_Frat_Row,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,AC_Frat_Row,Einsteins
+Olin Business School,Class of 2019,Bauer_Law_School,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,Bauer_Law_School,DUC
+Olin Business School,Class of 2019,Bauer_Law_School,Einsteins
+Olin Business School,Class of 2019,Bauer_Law_School,Law_School_Cafeteria
+Olin Business School,Class of 2019,Bauer_Law_School,Village_Dining
+Olin Business School,Class of 2019,DUC_Area,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,DUC_Area,DUC
+Olin Business School,Class of 2019,DUC_Area,Einsteins
+Olin Business School,Class of 2019,DUC_Area,Law_School_Cafeteria
+Olin Business School,Class of 2019,DUC_Area,Village_Dining
+Olin Business School,Class of 2019,South_40,Einsteins
+Olin Business School,Class of 2019,Village,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,AC_Frat_Row,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,AC_Frat_Row,Village_Dining
+Olin Business School,Class of 2019,Bauer_Law_School,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,Bauer_Law_School,Law_School_Cafeteria
+Olin Business School,Class of 2019,DUC_Area,Einsteins
+Olin Business School,Class of 2019,Brown_School,Hillman
+Olin Business School,Class of 2019,Sam_Fox,Hillman
+Olin Business School,Class of 2019,South_40,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,South_40,BD
+Olin Business School,Class of 2019,South_40,DUC
+Olin Business School,Class of 2019,South_40,Einsteins
+Olin Business School,Class of 2019,South_40,Village_Dining
+Olin Business School,Class of 2019,Village,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,Village,DUC
+Olin Business School,Class of 2019,Village,Einsteins
+Olin Business School,Class of 2019,Village,Village_Dining
+Olin Business School,Class of 2019,AC_Frat_Row,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,AC_Frat_Row,DUC
+Olin Business School,Class of 2019,AC_Frat_Row,Einsteins
+Olin Business School,Class of 2019,AC_Frat_Row,Subway
+Olin Business School,Class of 2019,AC_Frat_Row,Village_Dining
+Olin Business School,Class of 2019,Bauer_Law_School,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,Bauer_Law_School,DUC
+Olin Business School,Class of 2019,Bauer_Law_School,Einsteins
+Olin Business School,Class of 2019,Bauer_Law_School,Subway
+Olin Business School,Class of 2019,Bauer_Law_School,Whispers
+Olin Business School,Class of 2019,DUC_Area,DUC
+Olin Business School,Class of 2019,DUC_Area,Einsteins
+Olin Business School,Class of 2019,DUC_Area,Subway
+Olin Business School,Class of 2019,DUC_Area,Whispers
+Olin Business School,Class of 2019,Chemistry,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,Chemistry,DUC
+Olin Business School,Class of 2019,Chemistry,Subway
+Olin Business School,Class of 2019,Chemistry,Whispers
+Olin Business School,Class of 2019,Engineering_Quad,Einsteins
+Olin Business School,Class of 2019,Engineering_Quad,Holmes
+Olin Business School,Class of 2019,Engineering_Quad,Stanleys
+Olin Business School,Class of 2019,Engineering_Quad,Subway
+Olin Business School,Class of 2019,Engineering_Quad,Whispers
+Olin Business School,Class of 2019,Sam_Fox,Ettas
+Olin Business School,Class of 2019,Sam_Fox,Subway
+Olin Business School,Class of 2019,Sam_Fox,Whispers
+Olin Business School,Class of 2019,Northwest_Corner,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,Northwest_Corner,DUC
+Olin Business School,Class of 2019,Northwest_Corner,Einsteins
+Olin Business School,Class of 2019,Northwest_Corner,Stanleys
+Olin Business School,Class of 2019,Northwest_Corner,Subway
+Olin Business School,Class of 2019,Northwest_Corner,Whispers
+Olin Business School,Class of 2020,South_40,DUC
+Olin Business School,Class of 2020,Village,Bauer_Hall_Cafe
+Olin Business School,Class of 2020,AC_Frat_Row,Bauer_Hall_Cafe
+Olin Business School,Class of 2020,Bauer_Law_School,Einsteins
+Olin Business School,Class of 2020,DUC_Area,Einsteins
+Olin Business School,Class of 2020,Bio_Psych,Whispers
+Olin Business School,Class of 2020,Chemistry,Bauer_Hall_Cafe
+Olin Business School,Class of 2020,Engineering_Quad,Off_Campus
+Olin Business School,Class of 2020,Brookings_Quad,Off_Campus
+Olin Business School,Class of 2020,Brown_School,Einsteins
+Olin Business School,Class of 2020,South_40,BD
+Olin Business School,Class of 2020,South_40,DUC
+Olin Business School,Class of 2020,South_40,Einsteins
+Olin Business School,Class of 2020,South_40,Law_School_Cafeteria
+Olin Business School,Class of 2020,South_40,Loop_Dining
+Olin Business School,Class of 2020,South_40,Subway
+Olin Business School,Class of 2020,Village,Bauer_Hall_Cafe
+Olin Business School,Class of 2020,Village,Einsteins
+Olin Business School,Class of 2020,Village,Law_School_Cafeteria
+Olin Business School,Class of 2020,AC_Frat_Row,Law_School_Cafeteria
+Olin Business School,Class of 2020,AC_Frat_Row,Village_Dining
+Olin Business School,Class of 2020,Bauer_Law_School,Bauer_Hall_Cafe
+Olin Business School,Class of 2020,Bauer_Law_School,DUC
+Olin Business School,Class of 2020,Bauer_Law_School,Einsteins
+Olin Business School,Class of 2020,Bauer_Law_School,Law_School_Cafeteria
+Olin Business School,Class of 2020,Bauer_Law_School,Subway
+Olin Business School,Class of 2020,DUC_Area,DUC
+Olin Business School,Class of 2020,DUC_Area,Einsteins
+Olin Business School,Class of 2020,DUC_Area,Subway
+Olin Business School,Class of 2020,Bio_Psych,Holmes
+Olin Business School,Class of 2020,Bio_Psych,Subway
+Olin Business School,Class of 2020,Brookings_Quad,Holmes
+Olin Business School,Class of 2020,Brown_School,Hillman
+Olin Business School,Class of 2020,Brown_School,Holmes
+College of Engineering and Applied Sciences,Grad Student,South_40,BD
+College of Engineering and Applied Sciences,Grad Student,Village,Village_Dining
+College of Engineering and Applied Sciences,Grad Student,AC_Frat_Row,Bauer_Hall_Cafe
+College of Engineering and Applied Sciences,Grad Student,Bauer_Law_School,Bauer_Hall_Cafe
+College of Engineering and Applied Sciences,Grad Student,DUC_Area,Bauer_Hall_Cafe
+College of Engineering and Applied Sciences,Grad Student,Bio_Psych,Bauer_Hall_Cafe
+College of Engineering and Applied Sciences,Grad Student,Chemistry,Bauer_Hall_Cafe
+College of Engineering and Applied Sciences,Grad Student,Engineering_Quad,Stanleys
+College of Engineering and Applied Sciences,Grad Student,Brookings_Quad,Stanleys
+College of Engineering and Applied Sciences,Grad Student,Brown_School,Stanleys
+College of Engineering and Applied Sciences,Grad Student,Sam_Fox,Stanleys
+College of Engineering and Applied Sciences,Grad Student,Northwest_Corner,Stanleys
+College of Arts and Sciences,Class of 2022,South_40,DUC
+College of Arts and Sciences,Class of 2022,Village,BD
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,Whispers
+College of Arts and Sciences,Class of 2022,Bauer_Law_School,DUC
+College of Arts and Sciences,Class of 2022,DUC_Area,BD
+College of Arts and Sciences,Class of 2022,Bio_Psych,Whispers
+College of Arts and Sciences,Class of 2022,Chemistry,Hillman
+College of Arts and Sciences,Class of 2022,Brookings_Quad,Whispers
+College of Arts and Sciences,Class of 2022,Brown_School,Whispers
+College of Engineering and Applied Sciences,Grad Student,South_40,BD
+College of Engineering and Applied Sciences,Grad Student,Village,Village_Dining
+College of Engineering and Applied Sciences,Grad Student,AC_Frat_Row,DUC
+College of Engineering and Applied Sciences,Grad Student,AC_Frat_Row,Village_Dining
+College of Engineering and Applied Sciences,Grad Student,DUC_Area,DUC
+College of Engineering and Applied Sciences,Grad Student,Chemistry,DUC
+College of Engineering and Applied Sciences,Grad Student,Chemistry,Holmes
+College of Engineering and Applied Sciences,Grad Student,Engineering_Quad,DUC
+College of Engineering and Applied Sciences,Grad Student,Engineering_Quad,Holmes
+College of Engineering and Applied Sciences,Grad Student,Engineering_Quad,Stanleys
+College of Engineering and Applied Sciences,Grad Student,Brookings_Quad,Holmes
+College of Engineering and Applied Sciences,Grad Student,Brown_School,DUC
+College of Engineering and Applied Sciences,Grad Student,Brown_School,Hillman
+College of Engineering and Applied Sciences,Grad Student,Brown_School,Holmes
+Sam Fox College of Art and Architecture,Class of 2019,South_40,BD
+Sam Fox College of Art and Architecture,Class of 2019,Village,DUC
+Sam Fox College of Art and Architecture,Class of 2019,AC_Frat_Row,BD
+Sam Fox College of Art and Architecture,Class of 2019,Bio_Psych,Hillman
+Sam Fox College of Art and Architecture,Class of 2019,Chemistry,DUC
+Sam Fox College of Art and Architecture,Class of 2019,Engineering_Quad,Hillman
+Sam Fox College of Art and Architecture,Class of 2019,Brookings_Quad,Hillman
+Sam Fox College of Art and Architecture,Class of 2019,Brookings_Quad,Off_Campus
+Sam Fox College of Art and Architecture,Class of 2019,Brown_School,Ettas
+Sam Fox College of Art and Architecture,Class of 2019,Brown_School,Hillman
+Sam Fox College of Art and Architecture,Class of 2019,Sam_Fox,Ettas
+Sam Fox College of Art and Architecture,Class of 2019,Sam_Fox,Hillman
+Sam Fox College of Art and Architecture,Class of 2019,Northwest_Corner,Hillman
+College of Engineering and Applied Sciences,Class of 2022,South_40,BD
+College of Engineering and Applied Sciences,Class of 2022,South_40,DUC
+College of Engineering and Applied Sciences,Class of 2022,South_40,Einsteins
+College of Engineering and Applied Sciences,Class of 2022,South_40,Village_Dining
+College of Engineering and Applied Sciences,Class of 2022,Village,DUC
+College of Engineering and Applied Sciences,Class of 2022,AC_Frat_Row,BD
+College of Engineering and Applied Sciences,Class of 2022,AC_Frat_Row,DUC
+College of Engineering and Applied Sciences,Class of 2022,DUC_Area,BD
+College of Engineering and Applied Sciences,Class of 2022,DUC_Area,DUC
+College of Engineering and Applied Sciences,Class of 2022,Bio_Psych,BD
+College of Engineering and Applied Sciences,Class of 2022,Bio_Psych,DUC
+College of Engineering and Applied Sciences,Class of 2022,Engineering_Quad,BD
+College of Engineering and Applied Sciences,Class of 2022,Engineering_Quad,DUC
+College of Engineering and Applied Sciences,Class of 2022,Brookings_Quad,BD
+College of Engineering and Applied Sciences,Class of 2022,Brookings_Quad,DUC
+College of Engineering and Applied Sciences,Class of 2022,Brown_School,DUC
+College of Arts and Sciences,Class of 2022,South_40,DUC
+College of Arts and Sciences,Class of 2021,South_40,DUC
+College of Engineering and Applied Sciences,Class of 2021,South_40,DUC
+Sam Fox College of Art and Architecture,Class of 2020,Chemistry,DUC
+College of Arts and Sciences,Class of 2021,South_40,DUC
+Olin Business School,Class of 2022,South_40,DUC
+Olin Business School,Class of 2021,Village,DUC
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,DUC
+College of Arts and Sciences,Class of 2021,Village,DUC
+College of Engineering and Applied Sciences,Class of 2021,Brookings_Quad,DUC
+College of Arts and Sciences,Class of 2022,South_40,DUC
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,DUC
+Sam Fox College of Art and Architecture,Class of 2019,AC_Frat_Row,DUC
+College of Arts and Sciences,Class of 2022,South_40,DUC
+College of Arts and Sciences,Class of 2021,South_40,DUC
+College of Engineering and Applied Sciences,Class of 2021,South_40,DUC
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,DUC
+Olin Business School,Class of 2022,South_40,DUC
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,DUC
+College of Engineering and Applied Sciences,Class of 2019,Brookings_Quad,DUC
+College of Arts and Sciences,Class of 2021,South_40,DUC
+College of Arts and Sciences,Class of 2022,South_40,DUC
+College of Engineering and Applied Sciences,Class of 2022,AC_Frat_Row,DUC
+College of Arts and Sciences,Class of 2021,Village,DUC
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,Stanleys
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,Stanleys
+College of Engineering and Applied Sciences,Class of 2019,Engineering_Quad,Stanleys
+College of Arts and Sciences,Class of 2021,Engineering_Quad,Stanleys
+College of Engineering and Applied Sciences,Class of 2022,Engineering_Quad,Stanleys
+College of Engineering and Applied Sciences,Class of 2022,Engineering_Quad,Stanleys
+College of Engineering and Applied Sciences,Class of 2021,DUC_Area,Stanleys
+College of Engineering and Applied Sciences,Class of 2020,Village,Stanleys
+College of Arts and Sciences,Class of 2020,Engineering_Quad,Stanleys
+Olin Business School,Class of 2019,Engineering_Quad,Stanleys
+College of Arts and Sciences,Class of 2022,Engineering_Quad,Stanleys
+College of Engineering and Applied Sciences,Class of 2022,Brookings_Quad,Stanleys
+College of Engineering and Applied Sciences,Class of 2021,Engineering_Quad,Stanleys
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,Stanleys
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,Stanleys
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,Stanleys
+College of Engineering and Applied Sciences,Class of 2019,Village,Stanleys
+College of Arts and Sciences,Class of 2019,Chemistry,Stanleys
+Olin Business School,Class of 2020,DUC_Area,Stanleys
+College of Engineering and Applied Sciences,Class of 2021,AC_Frat_Row,Stanleys
+College of Arts and Sciences,Class of 2021,AC_Frat_Row,Stanleys
+College of Arts and Sciences,Class of 2021,Brookings_Quad,Stanleys
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,Stanleys
+College of Engineering and Applied Sciences,Class of 2022,South_40,Stanleys
+College of Engineering and Applied Sciences,Class of 2019,Engineering_Quad,Stanleys
+College of Arts and Sciences,Class of 2019,Engineering_Quad,Stanleys
+College of Engineering and Applied Sciences,Class of 2020,AC_Frat_Row,Stanleys
+College of Engineering and Applied Sciences,Class of 2021,Brookings_Quad,Stanleys
+College of Engineering and Applied Sciences,Class of 2022,DUC_Area,Stanleys
+College of Arts and Sciences,Class of 2020,Brookings_Quad,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Engineering_Quad,Whispers
+College of Arts and Sciences,Class of 2020,Bauer_Law_School,Whispers
+College of Engineering and Applied Sciences,Class of 2021,AC_Frat_Row,Whispers
+Sam Fox College of Art and Architecture,Class of 2020,Bio_Psych,Whispers
+College of Engineering and Applied Sciences,Class of 2019,DUC_Area,Whispers
+College of Arts and Sciences,Class of 2020,Brookings_Quad,Whispers
+Sam Fox College of Art and Architecture,Class of 2020,Brookings_Quad,Whispers
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Bauer_Law_School,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Engineering_Quad,Whispers
+Olin Business School,Class of 2021,Bio_Psych,Whispers
+Olin Business School,Class of 2022,Bauer_Law_School,Whispers
+College of Engineering and Applied Sciences,Class of 2020,DUC_Area,Whispers
+College of Arts and Sciences,Class of 2022,Brookings_Quad,Whispers
+College of Engineering and Applied Sciences,Class of 2022,Brookings_Quad,Whispers
+Sam Fox College of Art and Architecture,Class of 2022,Chemistry,Whispers
+Olin Business School,Class of 2020,DUC_Area,Whispers
+College of Engineering and Applied Sciences,Class of 2021,Brookings_Quad,Whispers
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,Whispers
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,Whispers
+College of Arts and Sciences,Class of 2019,Brookings_Quad,Whispers
+Olin Business School,Class of 2020,Engineering_Quad,Whispers
+College of Arts and Sciences,Class of 2019,Brookings_Quad,Whispers
+College of Arts and Sciences,Class of 2021,Chemistry,Whispers
+Olin Business School,Class of 2021,DUC_Area,Whispers
+Olin Business School,Class of 2020,Brookings_Quad,Whispers
+Olin Business School,Class of 2020,Bauer_Law_School,Whispers
+College of Arts and Sciences,Class of 2021,Brookings_Quad,Whispers
