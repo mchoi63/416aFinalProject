@@ -1,0 +1,1677 @@
+School,Year,Source,Target
+College of Engineering and Applied Sciences,Class of 2021,South_40,0
+College of Engineering and Applied Sciences,Class of 2021,0,BD
+College of Engineering and Applied Sciences,Class of 2021,Village,1
+College of Engineering and Applied Sciences,Class of 2021,1,Village_Dining
+College of Engineering and Applied Sciences,Class of 2021,AC_Frat_Row,2
+College of Engineering and Applied Sciences,Class of 2021,2,Village_Dining
+College of Engineering and Applied Sciences,Class of 2021,Bio_Psych,3
+College of Engineering and Applied Sciences,Class of 2021,3,DUC
+College of Engineering and Applied Sciences,Class of 2021,Chemistry,4
+College of Engineering and Applied Sciences,Class of 2021,4,DUC
+College of Engineering and Applied Sciences,Class of 2021,Engineering_Quad,5
+College of Engineering and Applied Sciences,Class of 2021,5,DUC
+College of Engineering and Applied Sciences,Class of 2021,Brown_School,6
+College of Engineering and Applied Sciences,Class of 2021,6,DUC
+College of Arts and Sciences,Class of 2022,South_40,7
+College of Arts and Sciences,Class of 2022,7,BD
+College of Arts and Sciences,Class of 2022,Village,8
+College of Arts and Sciences,Class of 2022,8,Village_Dining
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,9
+College of Arts and Sciences,Class of 2022,9,Village_Dining
+College of Arts and Sciences,Class of 2022,Bauer_Law_School,10
+College of Arts and Sciences,Class of 2022,10,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,DUC_Area,11
+College of Arts and Sciences,Class of 2022,11,DUC
+College of Arts and Sciences,Class of 2022,Bio_Psych,12
+College of Arts and Sciences,Class of 2022,12,DUC
+College of Arts and Sciences,Class of 2022,Chemistry,13
+College of Arts and Sciences,Class of 2022,13,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Brookings_Quad,14
+College of Arts and Sciences,Class of 2022,14,DUC
+Olin Business School,Class of 2019,South_40,15
+Olin Business School,Class of 2019,15,BD
+Olin Business School,Class of 2019,South_40,16
+Olin Business School,Class of 2019,16,DUC
+Olin Business School,Class of 2019,Village,17
+Olin Business School,Class of 2019,17,DUC
+Olin Business School,Class of 2019,Village,18
+Olin Business School,Class of 2019,18,Law_School_Cafeteria
+Olin Business School,Class of 2019,AC_Frat_Row,19
+Olin Business School,Class of 2019,19,DUC
+Olin Business School,Class of 2019,AC_Frat_Row,20
+Olin Business School,Class of 2019,20,Law_School_Cafeteria
+Olin Business School,Class of 2019,AC_Frat_Row,21
+Olin Business School,Class of 2019,21,Whispers
+Olin Business School,Class of 2019,Bauer_Law_School,22
+Olin Business School,Class of 2019,22,DUC
+Olin Business School,Class of 2019,Bauer_Law_School,23
+Olin Business School,Class of 2019,23,Law_School_Cafeteria
+Olin Business School,Class of 2019,Bauer_Law_School,24
+Olin Business School,Class of 2019,24,Whispers
+Olin Business School,Class of 2019,DUC_Area,25
+Olin Business School,Class of 2019,25,DUC
+Olin Business School,Class of 2019,DUC_Area,26
+Olin Business School,Class of 2019,26,Holmes
+Olin Business School,Class of 2019,DUC_Area,27
+Olin Business School,Class of 2019,27,Whispers
+Olin Business School,Class of 2019,Bio_Psych,28
+Olin Business School,Class of 2019,28,DUC
+Olin Business School,Class of 2019,Bio_Psych,29
+Olin Business School,Class of 2019,29,Holmes
+Olin Business School,Class of 2019,Bio_Psych,30
+Olin Business School,Class of 2019,30,Whispers
+Olin Business School,Class of 2019,Engineering_Quad,31
+Olin Business School,Class of 2019,31,Hillman
+Olin Business School,Class of 2019,Engineering_Quad,32
+Olin Business School,Class of 2019,32,Holmes
+Olin Business School,Class of 2019,Engineering_Quad,33
+Olin Business School,Class of 2019,33,Whispers
+Olin Business School,Class of 2019,Brookings_Quad,34
+Olin Business School,Class of 2019,34,DUC
+Olin Business School,Class of 2019,Brookings_Quad,35
+Olin Business School,Class of 2019,35,Holmes
+Olin Business School,Class of 2019,Brookings_Quad,36
+Olin Business School,Class of 2019,36,Whispers
+Olin Business School,Class of 2019,Brown_School,37
+Olin Business School,Class of 2019,37,Hillman
+Olin Business School,Class of 2019,Brown_School,38
+Olin Business School,Class of 2019,38,Holmes
+Olin Business School,Class of 2019,Brown_School,39
+Olin Business School,Class of 2019,39,Whispers
+Olin Business School,Class of 2019,Sam_Fox,40
+Olin Business School,Class of 2019,40,Hillman
+Olin Business School,Class of 2019,Sam_Fox,41
+Olin Business School,Class of 2019,41,Holmes
+Olin Business School,Class of 2019,Sam_Fox,42
+Olin Business School,Class of 2019,42,Whispers
+College of Engineering and Applied Sciences,Class of 2020,South_40,43
+College of Engineering and Applied Sciences,Class of 2020,43,BD
+College of Engineering and Applied Sciences,Class of 2020,South_40,44
+College of Engineering and Applied Sciences,Class of 2020,44,DUC
+College of Engineering and Applied Sciences,Class of 2020,Village,45
+College of Engineering and Applied Sciences,Class of 2020,45,DUC
+College of Engineering and Applied Sciences,Class of 2020,Village,46
+College of Engineering and Applied Sciences,Class of 2020,46,Village_Dining
+College of Engineering and Applied Sciences,Class of 2020,AC_Frat_Row,47
+College of Engineering and Applied Sciences,Class of 2020,47,DUC
+College of Engineering and Applied Sciences,Class of 2020,AC_Frat_Row,48
+College of Engineering and Applied Sciences,Class of 2020,48,Village_Dining
+College of Engineering and Applied Sciences,Class of 2020,DUC_Area,49
+College of Engineering and Applied Sciences,Class of 2020,49,DUC
+College of Engineering and Applied Sciences,Class of 2020,DUC_Area,50
+College of Engineering and Applied Sciences,Class of 2020,50,Holmes
+College of Engineering and Applied Sciences,Class of 2020,DUC_Area,51
+College of Engineering and Applied Sciences,Class of 2020,51,Whispers
+College of Engineering and Applied Sciences,Class of 2020,Bio_Psych,52
+College of Engineering and Applied Sciences,Class of 2020,52,DUC
+College of Engineering and Applied Sciences,Class of 2020,Bio_Psych,53
+College of Engineering and Applied Sciences,Class of 2020,53,Holmes
+College of Engineering and Applied Sciences,Class of 2020,Bio_Psych,54
+College of Engineering and Applied Sciences,Class of 2020,54,Stanleys
+College of Engineering and Applied Sciences,Class of 2020,Bio_Psych,55
+College of Engineering and Applied Sciences,Class of 2020,55,Whispers
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,56
+College of Engineering and Applied Sciences,Class of 2020,56,DUC
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,57
+College of Engineering and Applied Sciences,Class of 2020,57,Stanleys
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,58
+College of Engineering and Applied Sciences,Class of 2020,58,Whispers
+College of Engineering and Applied Sciences,Class of 2020,Northest_Corner,59
+College of Engineering and Applied Sciences,Class of 2020,59,DUC
+College of Engineering and Applied Sciences,Class of 2020,Northest_Corner,60
+College of Engineering and Applied Sciences,Class of 2020,60,Holmes
+College of Engineering and Applied Sciences,Class of 2020,Northest_Corner,61
+College of Engineering and Applied Sciences,Class of 2020,61,Stanleys
+College of Engineering and Applied Sciences,Class of 2020,Northest_Corner,62
+College of Engineering and Applied Sciences,Class of 2020,62,Whispers
+College of Arts and Sciences,Class of 2021,South_40,63
+College of Arts and Sciences,Class of 2021,63,BD
+College of Arts and Sciences,Class of 2021,South_40,64
+College of Arts and Sciences,Class of 2021,64,DUC
+College of Arts and Sciences,Class of 2021,South_40,65
+College of Arts and Sciences,Class of 2021,65,Einsteins
+College of Arts and Sciences,Class of 2021,South_40,66
+College of Arts and Sciences,Class of 2021,66,Off_Campus
+College of Arts and Sciences,Class of 2021,Village,67
+College of Arts and Sciences,Class of 2021,67,DUC
+College of Arts and Sciences,Class of 2021,Village,68
+College of Arts and Sciences,Class of 2021,68,Einsteins
+College of Arts and Sciences,Class of 2021,AC_Frat_Row,69
+College of Arts and Sciences,Class of 2021,69,DUC
+College of Arts and Sciences,Class of 2021,AC_Frat_Row,70
+College of Arts and Sciences,Class of 2021,70,Einsteins
+College of Arts and Sciences,Class of 2021,Bauer_Law_School,71
+College of Arts and Sciences,Class of 2021,71,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2021,Bauer_Law_School,72
+College of Arts and Sciences,Class of 2021,72,DUC
+College of Arts and Sciences,Class of 2021,DUC_Area,73
+College of Arts and Sciences,Class of 2021,73,DUC
+College of Arts and Sciences,Class of 2021,Bio_Psych,74
+College of Arts and Sciences,Class of 2021,74,DUC
+College of Arts and Sciences,Class of 2021,Bio_Psych,75
+College of Arts and Sciences,Class of 2021,75,Einsteins
+College of Arts and Sciences,Class of 2021,Brown_School,76
+College of Arts and Sciences,Class of 2021,76,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2021,Brown_School,77
+College of Arts and Sciences,Class of 2021,77,DUC
+College of Engineering and Applied Sciences,Class of 2022,South_40,78
+College of Engineering and Applied Sciences,Class of 2022,78,BD
+College of Engineering and Applied Sciences,Class of 2022,Village,79
+College of Engineering and Applied Sciences,Class of 2022,79,Law_School_Cafeteria
+College of Engineering and Applied Sciences,Class of 2022,Village,80
+College of Engineering and Applied Sciences,Class of 2022,80,Village_Dining
+College of Engineering and Applied Sciences,Class of 2022,AC_Frat_Row,81
+College of Engineering and Applied Sciences,Class of 2022,81,DUC
+College of Engineering and Applied Sciences,Class of 2022,AC_Frat_Row,82
+College of Engineering and Applied Sciences,Class of 2022,82,Einsteins
+College of Engineering and Applied Sciences,Class of 2022,AC_Frat_Row,83
+College of Engineering and Applied Sciences,Class of 2022,83,Law_School_Cafeteria
+College of Engineering and Applied Sciences,Class of 2022,DUC_Area,84
+College of Engineering and Applied Sciences,Class of 2022,84,DUC
+College of Engineering and Applied Sciences,Class of 2022,DUC_Area,85
+College of Engineering and Applied Sciences,Class of 2022,85,Einsteins
+College of Engineering and Applied Sciences,Class of 2022,DUC_Area,86
+College of Engineering and Applied Sciences,Class of 2022,86,Law_School_Cafeteria
+College of Engineering and Applied Sciences,Class of 2022,Bio_Psych,87
+College of Engineering and Applied Sciences,Class of 2022,87,DUC
+College of Engineering and Applied Sciences,Class of 2022,Engineering_Quad,88
+College of Engineering and Applied Sciences,Class of 2022,88,DUC
+College of Engineering and Applied Sciences,Class of 2022,Engineering_Quad,89
+College of Engineering and Applied Sciences,Class of 2022,89,Holmes
+College of Engineering and Applied Sciences,Class of 2022,Engineering_Quad,90
+College of Engineering and Applied Sciences,Class of 2022,90,Loop_Dining
+College of Engineering and Applied Sciences,Class of 2022,Engineering_Quad,91
+College of Engineering and Applied Sciences,Class of 2022,91,Stanleys
+College of Arts and Sciences,Class of 2019,South_40,92
+College of Arts and Sciences,Class of 2019,92,BD
+College of Arts and Sciences,Class of 2019,South_40,93
+College of Arts and Sciences,Class of 2019,93,DUC
+College of Arts and Sciences,Class of 2019,Village,94
+College of Arts and Sciences,Class of 2019,94,DUC
+College of Arts and Sciences,Class of 2019,Village,95
+College of Arts and Sciences,Class of 2019,95,Village_Dining
+College of Arts and Sciences,Class of 2019,AC_Frat_Row,96
+College of Arts and Sciences,Class of 2019,96,BD
+College of Arts and Sciences,Class of 2019,AC_Frat_Row,97
+College of Arts and Sciences,Class of 2019,97,DUC
+College of Arts and Sciences,Class of 2019,Bauer_Law_School,98
+College of Arts and Sciences,Class of 2019,98,BD
+College of Arts and Sciences,Class of 2019,Bauer_Law_School,99
+College of Arts and Sciences,Class of 2019,99,DUC
+College of Arts and Sciences,Class of 2019,DUC_Area,100
+College of Arts and Sciences,Class of 2019,100,BD
+College of Arts and Sciences,Class of 2019,DUC_Area,101
+College of Arts and Sciences,Class of 2019,101,DUC
+College of Arts and Sciences,Class of 2019,Engineering_Quad,102
+College of Arts and Sciences,Class of 2019,102,DUC
+College of Arts and Sciences,Class of 2019,Engineering_Quad,103
+College of Arts and Sciences,Class of 2019,103,Holmes
+College of Arts and Sciences,Class of 2019,Brookings_Quad,104
+College of Arts and Sciences,Class of 2019,104,BD
+College of Arts and Sciences,Class of 2019,Brookings_Quad,105
+College of Arts and Sciences,Class of 2019,105,DUC
+College of Arts and Sciences,Class of 2019,South_40,106
+College of Arts and Sciences,Class of 2019,106,BD
+College of Arts and Sciences,Class of 2019,South_40,107
+College of Arts and Sciences,Class of 2019,107,DUC
+College of Arts and Sciences,Class of 2019,Village,108
+College of Arts and Sciences,Class of 2019,108,DUC
+College of Arts and Sciences,Class of 2019,Village,109
+College of Arts and Sciences,Class of 2019,109,Village_Dining
+College of Arts and Sciences,Class of 2019,AC_Frat_Row,110
+College of Arts and Sciences,Class of 2019,110,BD
+College of Arts and Sciences,Class of 2019,AC_Frat_Row,111
+College of Arts and Sciences,Class of 2019,111,DUC
+College of Arts and Sciences,Class of 2019,Bauer_Law_School,112
+College of Arts and Sciences,Class of 2019,112,DUC
+College of Arts and Sciences,Class of 2019,DUC_Area,113
+College of Arts and Sciences,Class of 2019,113,DUC
+College of Arts and Sciences,Class of 2019,Bio_Psych,114
+College of Arts and Sciences,Class of 2019,114,DUC
+College of Arts and Sciences,Class of 2019,Bio_Psych,115
+College of Arts and Sciences,Class of 2019,115,Hillman
+College of Arts and Sciences,Class of 2019,Bio_Psych,116
+College of Arts and Sciences,Class of 2019,116,Whispers
+College of Arts and Sciences,Class of 2019,Chemistry,117
+College of Arts and Sciences,Class of 2019,117,DUC
+College of Arts and Sciences,Class of 2019,Chemistry,118
+College of Arts and Sciences,Class of 2019,118,Whispers
+College of Arts and Sciences,Class of 2021,South_40,119
+College of Arts and Sciences,Class of 2021,119,BD
+College of Arts and Sciences,Class of 2021,Village,120
+College of Arts and Sciences,Class of 2021,120,Village_Dining
+College of Arts and Sciences,Class of 2021,AC_Frat_Row,121
+College of Arts and Sciences,Class of 2021,121,BD
+College of Arts and Sciences,Class of 2021,AC_Frat_Row,122
+College of Arts and Sciences,Class of 2021,122,DUC
+College of Arts and Sciences,Class of 2021,AC_Frat_Row,123
+College of Arts and Sciences,Class of 2021,123,Einsteins
+College of Arts and Sciences,Class of 2021,Bauer_Law_School,124
+College of Arts and Sciences,Class of 2021,124,BD
+College of Arts and Sciences,Class of 2021,DUC_Area,125
+College of Arts and Sciences,Class of 2021,125,DUC
+College of Arts and Sciences,Class of 2021,DUC_Area,126
+College of Arts and Sciences,Class of 2021,126,Subway
+College of Engineering and Applied Sciences,Class of 2019,South_40,127
+College of Engineering and Applied Sciences,Class of 2019,127,BD
+College of Engineering and Applied Sciences,Class of 2019,Village,128
+College of Engineering and Applied Sciences,Class of 2019,128,Bauer_Hall_Cafe
+College of Engineering and Applied Sciences,Class of 2019,Village,129
+College of Engineering and Applied Sciences,Class of 2019,129,Village_Dining
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,130
+College of Engineering and Applied Sciences,Class of 2019,130,DUC
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,131
+College of Engineering and Applied Sciences,Class of 2019,131,Village_Dining
+College of Engineering and Applied Sciences,Class of 2019,Bauer_Law_School,132
+College of Engineering and Applied Sciences,Class of 2019,132,Bauer_Hall_Cafe
+College of Engineering and Applied Sciences,Class of 2019,Bauer_Law_School,133
+College of Engineering and Applied Sciences,Class of 2019,133,DUC
+College of Engineering and Applied Sciences,Class of 2019,DUC_Area,134
+College of Engineering and Applied Sciences,Class of 2019,134,DUC
+College of Engineering and Applied Sciences,Class of 2019,DUC_Area,135
+College of Engineering and Applied Sciences,Class of 2019,135,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Bio_Psych,136
+College of Engineering and Applied Sciences,Class of 2019,136,DUC
+College of Engineering and Applied Sciences,Class of 2019,Bio_Psych,137
+College of Engineering and Applied Sciences,Class of 2019,137,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Chemistry,138
+College of Engineering and Applied Sciences,Class of 2019,138,DUC
+College of Engineering and Applied Sciences,Class of 2019,Chemistry,139
+College of Engineering and Applied Sciences,Class of 2019,139,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Engineering_Quad,140
+College of Engineering and Applied Sciences,Class of 2019,140,DUC
+College of Engineering and Applied Sciences,Class of 2019,Engineering_Quad,141
+College of Engineering and Applied Sciences,Class of 2019,141,Stanleys
+College of Engineering and Applied Sciences,Class of 2019,Engineering_Quad,142
+College of Engineering and Applied Sciences,Class of 2019,142,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Brookings_Quad,143
+College of Engineering and Applied Sciences,Class of 2019,143,DUC
+College of Engineering and Applied Sciences,Class of 2019,Brookings_Quad,144
+College of Engineering and Applied Sciences,Class of 2019,144,Holmes
+College of Engineering and Applied Sciences,Class of 2019,Brown_School,145
+College of Engineering and Applied Sciences,Class of 2019,145,DUC
+College of Engineering and Applied Sciences,Class of 2019,Sam_Fox,146
+College of Engineering and Applied Sciences,Class of 2019,146,DUC
+College of Engineering and Applied Sciences,Class of 2019,Northest_Corner,147
+College of Engineering and Applied Sciences,Class of 2019,147,Stanleys
+College of Arts and Sciences,Class of 2019,South_40,148
+College of Arts and Sciences,Class of 2019,148,BD
+College of Arts and Sciences,Class of 2019,Village,149
+College of Arts and Sciences,Class of 2019,149,Village_Dining
+College of Arts and Sciences,Class of 2019,AC_Frat_Row,150
+College of Arts and Sciences,Class of 2019,150,BD
+College of Arts and Sciences,Class of 2019,Bauer_Law_School,151
+College of Arts and Sciences,Class of 2019,151,DUC
+College of Arts and Sciences,Class of 2019,DUC_Area,152
+College of Arts and Sciences,Class of 2019,152,DUC
+College of Arts and Sciences,Class of 2019,Bio_Psych,153
+College of Arts and Sciences,Class of 2019,153,DUC
+College of Arts and Sciences,Class of 2019,Chemistry,154
+College of Arts and Sciences,Class of 2019,154,DUC
+College of Arts and Sciences,Class of 2019,Brookings_Quad,155
+College of Arts and Sciences,Class of 2019,155,DUC
+College of Arts and Sciences,Class of 2019,South_40,156
+College of Arts and Sciences,Class of 2019,156,DUC
+College of Arts and Sciences,Class of 2019,Village,157
+College of Arts and Sciences,Class of 2019,157,DUC
+College of Arts and Sciences,Class of 2019,AC_Frat_Row,158
+College of Arts and Sciences,Class of 2019,158,DUC
+College of Arts and Sciences,Class of 2019,DUC_Area,159
+College of Arts and Sciences,Class of 2019,159,DUC
+College of Arts and Sciences,Class of 2019,Bio_Psych,160
+College of Arts and Sciences,Class of 2019,160,DUC
+College of Engineering and Applied Sciences,Class of 2020,South_40,161
+College of Engineering and Applied Sciences,Class of 2020,161,BD
+College of Engineering and Applied Sciences,Class of 2020,South_40,162
+College of Engineering and Applied Sciences,Class of 2020,162,DUC
+College of Engineering and Applied Sciences,Class of 2020,Village,163
+College of Engineering and Applied Sciences,Class of 2020,163,DUC
+College of Engineering and Applied Sciences,Class of 2020,Village,164
+College of Engineering and Applied Sciences,Class of 2020,164,Village_Dining
+College of Engineering and Applied Sciences,Class of 2020,AC_Frat_Row,165
+College of Engineering and Applied Sciences,Class of 2020,165,DUC
+College of Engineering and Applied Sciences,Class of 2020,Bio_Psych,166
+College of Engineering and Applied Sciences,Class of 2020,166,DUC
+College of Engineering and Applied Sciences,Class of 2020,Bio_Psych,167
+College of Engineering and Applied Sciences,Class of 2020,167,Hillman
+College of Engineering and Applied Sciences,Class of 2020,Bio_Psych,168
+College of Engineering and Applied Sciences,Class of 2020,168,Holmes
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,169
+College of Engineering and Applied Sciences,Class of 2020,169,DUC
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,170
+College of Engineering and Applied Sciences,Class of 2020,170,Stanleys
+College of Engineering and Applied Sciences,Class of 2020,Northest_Corner,171
+College of Engineering and Applied Sciences,Class of 2020,171,DUC
+College of Engineering and Applied Sciences,Class of 2020,Northest_Corner,172
+College of Engineering and Applied Sciences,Class of 2020,172,Stanleys
+College of Arts and Sciences,Class of 2021,South_40,173
+College of Arts and Sciences,Class of 2021,173,BD
+College of Arts and Sciences,Class of 2021,Village,174
+College of Arts and Sciences,Class of 2021,174,DUC
+College of Arts and Sciences,Class of 2021,AC_Frat_Row,175
+College of Arts and Sciences,Class of 2021,175,DUC
+College of Arts and Sciences,Class of 2021,DUC_Area,176
+College of Arts and Sciences,Class of 2021,176,DUC
+College of Arts and Sciences,Class of 2021,DUC_Area,177
+College of Arts and Sciences,Class of 2021,177,Einsteins
+College of Arts and Sciences,Class of 2021,Bio_Psych,178
+College of Arts and Sciences,Class of 2021,178,DUC
+College of Arts and Sciences,Class of 2021,Bio_Psych,179
+College of Arts and Sciences,Class of 2021,179,Holmes
+College of Arts and Sciences,Class of 2021,Chemistry,180
+College of Arts and Sciences,Class of 2021,180,DUC
+College of Arts and Sciences,Class of 2021,Engineering_Quad,181
+College of Arts and Sciences,Class of 2021,181,DUC
+College of Arts and Sciences,Class of 2021,Brookings_Quad,182
+College of Arts and Sciences,Class of 2021,182,DUC
+College of Arts and Sciences,Class of 2021,Brown_School,183
+College of Arts and Sciences,Class of 2021,183,DUC
+College of Arts and Sciences,Class of 2022,South_40,184
+College of Arts and Sciences,Class of 2022,184,BD
+College of Arts and Sciences,Class of 2022,South_40,185
+College of Arts and Sciences,Class of 2022,185,Einsteins
+College of Arts and Sciences,Class of 2022,South_40,186
+College of Arts and Sciences,Class of 2022,186,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Village,187
+College of Arts and Sciences,Class of 2022,187,DUC
+College of Arts and Sciences,Class of 2022,Village,188
+College of Arts and Sciences,Class of 2022,188,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Village,189
+College of Arts and Sciences,Class of 2022,189,Village_Dining
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,190
+College of Arts and Sciences,Class of 2022,190,DUC
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,191
+College of Arts and Sciences,Class of 2022,191,Einsteins
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,192
+College of Arts and Sciences,Class of 2022,192,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,193
+College of Arts and Sciences,Class of 2022,193,Village_Dining
+College of Arts and Sciences,Class of 2022,Engineering_Quad,194
+College of Arts and Sciences,Class of 2022,194,DUC
+College of Arts and Sciences,Class of 2022,Engineering_Quad,195
+College of Arts and Sciences,Class of 2022,195,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Brookings_Quad,196
+College of Arts and Sciences,Class of 2022,196,DUC
+College of Arts and Sciences,Class of 2022,Brookings_Quad,197
+College of Arts and Sciences,Class of 2022,197,Holmes
+College of Arts and Sciences,Class of 2022,Brookings_Quad,198
+College of Arts and Sciences,Class of 2022,198,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Brookings_Quad,199
+College of Arts and Sciences,Class of 2022,199,Whispers
+College of Arts and Sciences,Class of 2022,Brown_School,200
+College of Arts and Sciences,Class of 2022,200,Holmes
+College of Arts and Sciences,Class of 2022,Brown_School,201
+College of Arts and Sciences,Class of 2022,201,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Brown_School,202
+College of Arts and Sciences,Class of 2022,202,Whispers
+College of Engineering and Applied Sciences,Class of 2022,South_40,203
+College of Engineering and Applied Sciences,Class of 2022,203,DUC
+College of Engineering and Applied Sciences,Class of 2022,Village,204
+College of Engineering and Applied Sciences,Class of 2022,204,DUC
+College of Engineering and Applied Sciences,Class of 2022,AC_Frat_Row,205
+College of Engineering and Applied Sciences,Class of 2022,205,DUC
+College of Engineering and Applied Sciences,Class of 2022,Bauer_Law_School,206
+College of Engineering and Applied Sciences,Class of 2022,206,Law_School_Cafeteria
+College of Engineering and Applied Sciences,Class of 2022,DUC_Area,207
+College of Engineering and Applied Sciences,Class of 2022,207,DUC
+College of Engineering and Applied Sciences,Class of 2022,Bio_Psych,208
+College of Engineering and Applied Sciences,Class of 2022,208,Law_School_Cafeteria
+College of Engineering and Applied Sciences,Class of 2022,Chemistry,209
+College of Engineering and Applied Sciences,Class of 2022,209,Law_School_Cafeteria
+College of Engineering and Applied Sciences,Class of 2022,Engineering_Quad,210
+College of Engineering and Applied Sciences,Class of 2022,210,Holmes
+College of Engineering and Applied Sciences,Class of 2022,Brookings_Quad,211
+College of Engineering and Applied Sciences,Class of 2022,211,Law_School_Cafeteria
+College of Engineering and Applied Sciences,Class of 2019,South_40,212
+College of Engineering and Applied Sciences,Class of 2019,212,BD
+College of Engineering and Applied Sciences,Class of 2019,Village,213
+College of Engineering and Applied Sciences,Class of 2019,213,Village_Dining
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,214
+College of Engineering and Applied Sciences,Class of 2019,214,BD
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,215
+College of Engineering and Applied Sciences,Class of 2019,215,DUC
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,216
+College of Engineering and Applied Sciences,Class of 2019,216,Holmes
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,217
+College of Engineering and Applied Sciences,Class of 2019,217,Stanleys
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,218
+College of Engineering and Applied Sciences,Class of 2019,218,Subway
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,219
+College of Engineering and Applied Sciences,Class of 2019,219,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Chemistry,220
+College of Engineering and Applied Sciences,Class of 2019,220,DUC
+College of Engineering and Applied Sciences,Class of 2019,Chemistry,221
+College of Engineering and Applied Sciences,Class of 2019,221,Stanleys
+College of Engineering and Applied Sciences,Class of 2019,Chemistry,222
+College of Engineering and Applied Sciences,Class of 2019,222,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Engineering_Quad,223
+College of Engineering and Applied Sciences,Class of 2019,223,DUC
+College of Engineering and Applied Sciences,Class of 2019,Engineering_Quad,224
+College of Engineering and Applied Sciences,Class of 2019,224,Stanleys
+College of Engineering and Applied Sciences,Class of 2019,Northest_Corner,225
+College of Engineering and Applied Sciences,Class of 2019,225,DUC
+College of Engineering and Applied Sciences,Class of 2019,Northest_Corner,226
+College of Engineering and Applied Sciences,Class of 2019,226,Stanleys
+College of Engineering and Applied Sciences,Class of 2019,Northest_Corner,227
+College of Engineering and Applied Sciences,Class of 2019,227,Subway
+College of Engineering and Applied Sciences,Class of 2019,Northest_Corner,228
+College of Engineering and Applied Sciences,Class of 2019,228,Whispers
+College of Arts and Sciences,Class of 2020,South_40,229
+College of Arts and Sciences,Class of 2020,229,BD
+College of Arts and Sciences,Class of 2020,South_40,230
+College of Arts and Sciences,Class of 2020,230,Loop_Dining
+College of Arts and Sciences,Class of 2020,South_40,231
+College of Arts and Sciences,Class of 2020,231,Village_Dining
+College of Arts and Sciences,Class of 2020,Village,232
+College of Arts and Sciences,Class of 2020,232,Loop_Dining
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,233
+College of Arts and Sciences,Class of 2020,233,DUC
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,234
+College of Arts and Sciences,Class of 2020,234,Loop_Dining
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,235
+College of Arts and Sciences,Class of 2020,235,Village_Dining
+College of Arts and Sciences,Class of 2020,DUC_Area,236
+College of Arts and Sciences,Class of 2020,236,DUC
+College of Arts and Sciences,Class of 2020,DUC_Area,237
+College of Arts and Sciences,Class of 2020,237,Loop_Dining
+College of Arts and Sciences,Class of 2020,DUC_Area,238
+College of Arts and Sciences,Class of 2020,238,Village_Dining
+College of Arts and Sciences,Class of 2020,Brookings_Quad,239
+College of Arts and Sciences,Class of 2020,239,DUC
+College of Arts and Sciences,Class of 2020,Brookings_Quad,240
+College of Arts and Sciences,Class of 2020,240,Loop_Dining
+College of Arts and Sciences,Class of 2020,Brookings_Quad,241
+College of Arts and Sciences,Class of 2020,241,Village_Dining
+College of Arts and Sciences,Class of 2020,South_40,242
+College of Arts and Sciences,Class of 2020,242,BD
+College of Arts and Sciences,Class of 2020,Village,243
+College of Arts and Sciences,Class of 2020,243,Village_Dining
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,244
+College of Arts and Sciences,Class of 2020,244,BD
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,245
+College of Arts and Sciences,Class of 2020,245,DUC
+College of Arts and Sciences,Class of 2020,Bauer_Law_School,246
+College of Arts and Sciences,Class of 2020,246,BD
+College of Arts and Sciences,Class of 2020,Bauer_Law_School,247
+College of Arts and Sciences,Class of 2020,247,DUC
+College of Arts and Sciences,Class of 2020,DUC_Area,248
+College of Arts and Sciences,Class of 2020,248,DUC
+College of Arts and Sciences,Class of 2020,Bio_Psych,249
+College of Arts and Sciences,Class of 2020,249,DUC
+College of Arts and Sciences,Class of 2020,Chemistry,250
+College of Arts and Sciences,Class of 2020,250,DUC
+College of Arts and Sciences,Class of 2020,Engineering_Quad,251
+College of Arts and Sciences,Class of 2020,251,DUC
+College of Arts and Sciences,Class of 2020,Brookings_Quad,252
+College of Arts and Sciences,Class of 2020,252,DUC
+College of Arts and Sciences,Class of 2020,Brown_School,253
+College of Arts and Sciences,Class of 2020,253,DUC
+College of Arts and Sciences,Class of 2022,South_40,254
+College of Arts and Sciences,Class of 2022,254,BD
+College of Arts and Sciences,Class of 2022,Village,255
+College of Arts and Sciences,Class of 2022,255,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Village,256
+College of Arts and Sciences,Class of 2022,256,Village_Dining
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,257
+College of Arts and Sciences,Class of 2022,257,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Bauer_Law_School,258
+College of Arts and Sciences,Class of 2022,258,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2022,Bauer_Law_School,259
+College of Arts and Sciences,Class of 2022,259,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,DUC_Area,260
+College of Arts and Sciences,Class of 2022,260,Einsteins
+College of Arts and Sciences,Class of 2022,DUC_Area,261
+College of Arts and Sciences,Class of 2022,261,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,DUC_Area,262
+College of Arts and Sciences,Class of 2022,262,Village_Dining
+College of Arts and Sciences,Class of 2022,Bio_Psych,263
+College of Arts and Sciences,Class of 2022,263,Holmes
+College of Arts and Sciences,Class of 2022,Bio_Psych,264
+College of Arts and Sciences,Class of 2022,264,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Bio_Psych,265
+College of Arts and Sciences,Class of 2022,265,Stanleys
+College of Arts and Sciences,Class of 2022,Brookings_Quad,266
+College of Arts and Sciences,Class of 2022,266,Holmes
+College of Arts and Sciences,Class of 2022,Brookings_Quad,267
+College of Arts and Sciences,Class of 2022,267,Subway
+College of Arts and Sciences,Class of 2022,Brown_School,268
+College of Arts and Sciences,Class of 2022,268,Holmes
+College of Arts and Sciences,Class of 2022,Brown_School,269
+College of Arts and Sciences,Class of 2022,269,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,South_40,270
+College of Arts and Sciences,Class of 2022,270,BD
+College of Arts and Sciences,Class of 2022,Village,271
+College of Arts and Sciences,Class of 2022,271,BD
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,272
+College of Arts and Sciences,Class of 2022,272,BD
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,273
+College of Arts and Sciences,Class of 2022,273,DUC
+College of Arts and Sciences,Class of 2022,DUC_Area,274
+College of Arts and Sciences,Class of 2022,274,DUC
+College of Arts and Sciences,Class of 2022,Chemistry,275
+College of Arts and Sciences,Class of 2022,275,DUC
+College of Arts and Sciences,Class of 2022,Brookings_Quad,276
+College of Arts and Sciences,Class of 2022,276,DUC
+College of Arts and Sciences,Class of 2022,South_40,277
+College of Arts and Sciences,Class of 2022,277,BD
+College of Arts and Sciences,Class of 2022,Village,278
+College of Arts and Sciences,Class of 2022,278,Off_Campus
+College of Arts and Sciences,Class of 2022,Village,279
+College of Arts and Sciences,Class of 2022,279,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,280
+College of Arts and Sciences,Class of 2022,280,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Bauer_Law_School,281
+College of Arts and Sciences,Class of 2022,281,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,DUC_Area,282
+College of Arts and Sciences,Class of 2022,282,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Bio_Psych,283
+College of Arts and Sciences,Class of 2022,283,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Chemistry,284
+College of Arts and Sciences,Class of 2022,284,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Brookings_Quad,285
+College of Arts and Sciences,Class of 2022,285,Whispers
+College of Arts and Sciences,Class of 2022,Brown_School,286
+College of Arts and Sciences,Class of 2022,286,Hillman
+College of Arts and Sciences,Class of 2022,South_40,287
+College of Arts and Sciences,Class of 2022,287,BD
+College of Arts and Sciences,Class of 2022,South_40,288
+College of Arts and Sciences,Class of 2022,288,DUC
+College of Arts and Sciences,Class of 2022,South_40,289
+College of Arts and Sciences,Class of 2022,289,Einsteins
+College of Arts and Sciences,Class of 2022,South_40,290
+College of Arts and Sciences,Class of 2022,290,Ettas
+College of Arts and Sciences,Class of 2022,South_40,291
+College of Arts and Sciences,Class of 2022,291,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,South_40,292
+College of Arts and Sciences,Class of 2022,292,Village_Dining
+College of Arts and Sciences,Class of 2022,Village,293
+College of Arts and Sciences,Class of 2022,293,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Village,294
+College of Arts and Sciences,Class of 2022,294,Village_Dining
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,295
+College of Arts and Sciences,Class of 2022,295,DUC
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,296
+College of Arts and Sciences,Class of 2022,296,Village_Dining
+College of Arts and Sciences,Class of 2022,Bauer_Law_School,297
+College of Arts and Sciences,Class of 2022,297,DUC
+College of Arts and Sciences,Class of 2022,Bauer_Law_School,298
+College of Arts and Sciences,Class of 2022,298,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,DUC_Area,299
+College of Arts and Sciences,Class of 2022,299,DUC
+College of Arts and Sciences,Class of 2022,DUC_Area,300
+College of Arts and Sciences,Class of 2022,300,Holmes
+College of Arts and Sciences,Class of 2022,Brookings_Quad,301
+College of Arts and Sciences,Class of 2022,301,DUC
+College of Arts and Sciences,Class of 2022,Brookings_Quad,302
+College of Arts and Sciences,Class of 2022,302,Holmes
+College of Arts and Sciences,Class of 2022,Brookings_Quad,303
+College of Arts and Sciences,Class of 2022,303,Whispers
+College of Arts and Sciences,Class of 2022,Sam_Fox,304
+College of Arts and Sciences,Class of 2022,304,DUC
+College of Arts and Sciences,Class of 2022,Sam_Fox,305
+College of Arts and Sciences,Class of 2022,305,Ettas
+College of Arts and Sciences,Class of 2022,Sam_Fox,306
+College of Arts and Sciences,Class of 2022,306,Hillman
+College of Arts and Sciences,Class of 2022,Sam_Fox,307
+College of Arts and Sciences,Class of 2022,307,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2021,South_40,308
+College of Arts and Sciences,Class of 2021,308,BD
+College of Arts and Sciences,Class of 2021,Village,309
+College of Arts and Sciences,Class of 2021,309,Village_Dining
+College of Arts and Sciences,Class of 2021,AC_Frat_Row,310
+College of Arts and Sciences,Class of 2021,310,DUC
+College of Arts and Sciences,Class of 2021,AC_Frat_Row,311
+College of Arts and Sciences,Class of 2021,311,Holmes
+College of Arts and Sciences,Class of 2021,AC_Frat_Row,312
+College of Arts and Sciences,Class of 2021,312,Whispers
+College of Arts and Sciences,Class of 2021,DUC_Area,313
+College of Arts and Sciences,Class of 2021,313,DUC
+College of Arts and Sciences,Class of 2021,DUC_Area,314
+College of Arts and Sciences,Class of 2021,314,Einsteins
+College of Arts and Sciences,Class of 2021,DUC_Area,315
+College of Arts and Sciences,Class of 2021,315,Holmes
+College of Arts and Sciences,Class of 2021,DUC_Area,316
+College of Arts and Sciences,Class of 2021,316,Whispers
+College of Arts and Sciences,Class of 2021,Bio_Psych,317
+College of Arts and Sciences,Class of 2021,317,Hillman
+College of Arts and Sciences,Class of 2021,Bio_Psych,318
+College of Arts and Sciences,Class of 2021,318,Holmes
+College of Arts and Sciences,Class of 2021,Bio_Psych,319
+College of Arts and Sciences,Class of 2021,319,Whispers
+College of Arts and Sciences,Class of 2021,Chemistry,320
+College of Arts and Sciences,Class of 2021,320,DUC
+College of Arts and Sciences,Class of 2021,Chemistry,321
+College of Arts and Sciences,Class of 2021,321,Hillman
+College of Arts and Sciences,Class of 2021,Chemistry,322
+College of Arts and Sciences,Class of 2021,322,Holmes
+College of Arts and Sciences,Class of 2021,Chemistry,323
+College of Arts and Sciences,Class of 2021,323,Whispers
+College of Arts and Sciences,Class of 2021,Brookings_Quad,324
+College of Arts and Sciences,Class of 2021,324,Hillman
+College of Arts and Sciences,Class of 2021,Brookings_Quad,325
+College of Arts and Sciences,Class of 2021,325,Whispers
+College of Arts and Sciences,Class of 2021,Brown_School,326
+College of Arts and Sciences,Class of 2021,326,Hillman
+College of Arts and Sciences,Class of 2021,Brown_School,327
+College of Arts and Sciences,Class of 2021,327,Holmes
+College of Arts and Sciences,Class of 2021,Brown_School,328
+College of Arts and Sciences,Class of 2021,328,Whispers
+College of Arts and Sciences,Class of 2022,South_40,329
+College of Arts and Sciences,Class of 2022,329,BD
+College of Arts and Sciences,Class of 2022,South_40,330
+College of Arts and Sciences,Class of 2022,330,DUC
+College of Arts and Sciences,Class of 2022,Village,331
+College of Arts and Sciences,Class of 2022,331,BD
+College of Arts and Sciences,Class of 2022,Village,332
+College of Arts and Sciences,Class of 2022,332,Village_Dining
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,333
+College of Arts and Sciences,Class of 2022,333,BD
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,334
+College of Arts and Sciences,Class of 2022,334,DUC
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,335
+College of Arts and Sciences,Class of 2022,335,Village_Dining
+College of Arts and Sciences,Class of 2022,DUC_Area,336
+College of Arts and Sciences,Class of 2022,336,BD
+College of Arts and Sciences,Class of 2022,DUC_Area,337
+College of Arts and Sciences,Class of 2022,337,DUC
+College of Arts and Sciences,Class of 2022,DUC_Area,338
+College of Arts and Sciences,Class of 2022,338,Whispers
+College of Arts and Sciences,Class of 2022,Bio_Psych,339
+College of Arts and Sciences,Class of 2022,339,Subway
+College of Arts and Sciences,Class of 2022,Bio_Psych,340
+College of Arts and Sciences,Class of 2022,340,Whispers
+College of Arts and Sciences,Class of 2022,Chemistry,341
+College of Arts and Sciences,Class of 2022,341,DUC
+College of Arts and Sciences,Class of 2022,Chemistry,342
+College of Arts and Sciences,Class of 2022,342,Whispers
+College of Arts and Sciences,Class of 2022,Engineering_Quad,343
+College of Arts and Sciences,Class of 2022,343,BD
+College of Arts and Sciences,Class of 2022,Brookings_Quad,344
+College of Arts and Sciences,Class of 2022,344,BD
+College of Arts and Sciences,Class of 2022,Brookings_Quad,345
+College of Arts and Sciences,Class of 2022,345,DUC
+College of Arts and Sciences,Class of 2022,Brookings_Quad,346
+College of Arts and Sciences,Class of 2022,346,Whispers
+College of Arts and Sciences,Class of 2022,Brown_School,347
+College of Arts and Sciences,Class of 2022,347,DUC
+College of Arts and Sciences,Class of 2022,Brown_School,348
+College of Arts and Sciences,Class of 2022,348,Subway
+College of Arts and Sciences,Class of 2020,South_40,349
+College of Arts and Sciences,Class of 2020,349,DUC
+College of Arts and Sciences,Class of 2020,Village,350
+College of Arts and Sciences,Class of 2020,350,DUC
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,351
+College of Arts and Sciences,Class of 2020,351,DUC
+College of Arts and Sciences,Class of 2020,DUC_Area,352
+College of Arts and Sciences,Class of 2020,352,DUC
+College of Arts and Sciences,Class of 2020,Bio_Psych,353
+College of Arts and Sciences,Class of 2020,353,Stanleys
+College of Arts and Sciences,Class of 2020,Chemistry,354
+College of Arts and Sciences,Class of 2020,354,Whispers
+College of Arts and Sciences,Class of 2020,Engineering_Quad,355
+College of Arts and Sciences,Class of 2020,355,DUC
+College of Arts and Sciences,Class of 2020,Brookings_Quad,356
+College of Arts and Sciences,Class of 2020,356,DUC
+College of Arts and Sciences,Class of 2020,Brown_School,357
+College of Arts and Sciences,Class of 2020,357,DUC
+College of Engineering and Applied Sciences,Class of 2019,South_40,358
+College of Engineering and Applied Sciences,Class of 2019,358,Einsteins
+College of Engineering and Applied Sciences,Class of 2019,Village,359
+College of Engineering and Applied Sciences,Class of 2019,359,Law_School_Cafeteria
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,360
+College of Engineering and Applied Sciences,Class of 2019,360,Law_School_Cafeteria
+College of Engineering and Applied Sciences,Class of 2019,Bio_Psych,361
+College of Engineering and Applied Sciences,Class of 2019,361,DUC
+College of Engineering and Applied Sciences,Class of 2019,Engineering_Quad,362
+College of Engineering and Applied Sciences,Class of 2019,362,DUC
+College of Engineering and Applied Sciences,Class of 2019,Brookings_Quad,363
+College of Engineering and Applied Sciences,Class of 2019,363,DUC
+College of Engineering and Applied Sciences,Class of 2019,Sam_Fox,364
+College of Engineering and Applied Sciences,Class of 2019,364,DUC
+College of Engineering and Applied Sciences,Class of 2019,Northest_Corner,365
+College of Engineering and Applied Sciences,Class of 2019,365,Einsteins
+College of Engineering and Applied Sciences,Class of 2020,South_40,366
+College of Engineering and Applied Sciences,Class of 2020,366,BD
+College of Engineering and Applied Sciences,Class of 2020,South_40,367
+College of Engineering and Applied Sciences,Class of 2020,367,DUC
+College of Engineering and Applied Sciences,Class of 2020,Village,368
+College of Engineering and Applied Sciences,Class of 2020,368,DUC
+College of Engineering and Applied Sciences,Class of 2020,Village,369
+College of Engineering and Applied Sciences,Class of 2020,369,Village_Dining
+College of Engineering and Applied Sciences,Class of 2020,AC_Frat_Row,370
+College of Engineering and Applied Sciences,Class of 2020,370,DUC
+College of Engineering and Applied Sciences,Class of 2020,DUC_Area,371
+College of Engineering and Applied Sciences,Class of 2020,371,DUC
+College of Engineering and Applied Sciences,Class of 2020,Bio_Psych,372
+College of Engineering and Applied Sciences,Class of 2020,372,DUC
+College of Engineering and Applied Sciences,Class of 2020,Chemistry,373
+College of Engineering and Applied Sciences,Class of 2020,373,DUC
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,374
+College of Engineering and Applied Sciences,Class of 2020,374,DUC
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,375
+College of Engineering and Applied Sciences,Class of 2020,375,Stanleys
+College of Engineering and Applied Sciences,Class of 2020,Brookings_Quad,376
+College of Engineering and Applied Sciences,Class of 2020,376,DUC
+College of Engineering and Applied Sciences,Class of 2020,Northest_Corner,377
+College of Engineering and Applied Sciences,Class of 2020,377,DUC
+College of Engineering and Applied Sciences,Class of 2020,Northest_Corner,378
+College of Engineering and Applied Sciences,Class of 2020,378,Off_Campus
+College of Engineering and Applied Sciences,Class of 2020,Northest_Corner,379
+College of Engineering and Applied Sciences,Class of 2020,379,Stanleys
+College of Engineering and Applied Sciences,Class of 2020,South_40,380
+College of Engineering and Applied Sciences,Class of 2020,380,BD
+College of Engineering and Applied Sciences,Class of 2020,Village,381
+College of Engineering and Applied Sciences,Class of 2020,381,DUC
+College of Engineering and Applied Sciences,Class of 2020,Village,382
+College of Engineering and Applied Sciences,Class of 2020,382,Whispers
+College of Engineering and Applied Sciences,Class of 2020,AC_Frat_Row,383
+College of Engineering and Applied Sciences,Class of 2020,383,DUC
+College of Engineering and Applied Sciences,Class of 2020,AC_Frat_Row,384
+College of Engineering and Applied Sciences,Class of 2020,384,Subway
+College of Engineering and Applied Sciences,Class of 2020,AC_Frat_Row,385
+College of Engineering and Applied Sciences,Class of 2020,385,Whispers
+College of Engineering and Applied Sciences,Class of 2020,DUC_Area,386
+College of Engineering and Applied Sciences,Class of 2020,386,DUC
+College of Engineering and Applied Sciences,Class of 2020,DUC_Area,387
+College of Engineering and Applied Sciences,Class of 2020,387,Whispers
+College of Engineering and Applied Sciences,Class of 2020,Bio_Psych,388
+College of Engineering and Applied Sciences,Class of 2020,388,Hillman
+College of Engineering and Applied Sciences,Class of 2020,Bio_Psych,389
+College of Engineering and Applied Sciences,Class of 2020,389,Whispers
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,390
+College of Engineering and Applied Sciences,Class of 2020,390,Stanleys
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,391
+College of Engineering and Applied Sciences,Class of 2020,391,Whispers
+College of Engineering and Applied Sciences,Class of 2020,Brookings_Quad,392
+College of Engineering and Applied Sciences,Class of 2020,392,Stanleys
+College of Engineering and Applied Sciences,Class of 2020,Brookings_Quad,393
+College of Engineering and Applied Sciences,Class of 2020,393,Whispers
+College of Engineering and Applied Sciences,Class of 2019,South_40,394
+College of Engineering and Applied Sciences,Class of 2019,394,BD
+College of Engineering and Applied Sciences,Class of 2019,Village,395
+College of Engineering and Applied Sciences,Class of 2019,395,DUC
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,396
+College of Engineering and Applied Sciences,Class of 2019,396,DUC
+College of Engineering and Applied Sciences,Class of 2019,DUC_Area,397
+College of Engineering and Applied Sciences,Class of 2019,397,DUC
+College of Engineering and Applied Sciences,Class of 2019,Bio_Psych,398
+College of Engineering and Applied Sciences,Class of 2019,398,DUC
+College of Engineering and Applied Sciences,Class of 2019,Brookings_Quad,399
+College of Engineering and Applied Sciences,Class of 2019,399,DUC
+College of Engineering and Applied Sciences,Class of 2020,South_40,400
+College of Engineering and Applied Sciences,Class of 2020,400,BD
+College of Engineering and Applied Sciences,Class of 2020,Village,401
+College of Engineering and Applied Sciences,Class of 2020,401,DUC
+College of Engineering and Applied Sciences,Class of 2020,Village,402
+College of Engineering and Applied Sciences,Class of 2020,402,Village_Dining
+College of Engineering and Applied Sciences,Class of 2020,AC_Frat_Row,403
+College of Engineering and Applied Sciences,Class of 2020,403,DUC
+College of Engineering and Applied Sciences,Class of 2020,AC_Frat_Row,404
+College of Engineering and Applied Sciences,Class of 2020,404,Village_Dining
+College of Engineering and Applied Sciences,Class of 2020,Bauer_Law_School,405
+College of Engineering and Applied Sciences,Class of 2020,405,Bauer_Hall_Cafe
+College of Engineering and Applied Sciences,Class of 2020,Bauer_Law_School,406
+College of Engineering and Applied Sciences,Class of 2020,406,DUC
+College of Engineering and Applied Sciences,Class of 2020,DUC_Area,407
+College of Engineering and Applied Sciences,Class of 2020,407,DUC
+College of Engineering and Applied Sciences,Class of 2020,Bio_Psych,408
+College of Engineering and Applied Sciences,Class of 2020,408,DUC
+College of Engineering and Applied Sciences,Class of 2020,Chemistry,409
+College of Engineering and Applied Sciences,Class of 2020,409,DUC
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,410
+College of Engineering and Applied Sciences,Class of 2020,410,DUC
+College of Engineering and Applied Sciences,Class of 2020,Engineering_Quad,411
+College of Engineering and Applied Sciences,Class of 2020,411,Off_Campus
+College of Engineering and Applied Sciences,Class of 2020,Brookings_Quad,412
+College of Engineering and Applied Sciences,Class of 2020,412,DUC
+College of Engineering and Applied Sciences,Class of 2020,Brookings_Quad,413
+College of Engineering and Applied Sciences,Class of 2020,413,Off_Campus
+College of Engineering and Applied Sciences,Class of 2020,Brown_School,414
+College of Engineering and Applied Sciences,Class of 2020,414,DUC
+College of Engineering and Applied Sciences,Class of 2020,Brown_School,415
+College of Engineering and Applied Sciences,Class of 2020,415,Off_Campus
+College of Engineering and Applied Sciences,Class of 2020,Sam_Fox,416
+College of Engineering and Applied Sciences,Class of 2020,416,DUC
+College of Engineering and Applied Sciences,Class of 2020,Northest_Corner,417
+College of Engineering and Applied Sciences,Class of 2020,417,DUC
+College of Engineering and Applied Sciences,Class of 2020,Northest_Corner,418
+College of Engineering and Applied Sciences,Class of 2020,418,Off_Campus
+College of Engineering and Applied Sciences,Class of 2019,South_40,419
+College of Engineering and Applied Sciences,Class of 2019,419,BD
+College of Engineering and Applied Sciences,Class of 2019,Village,420
+College of Engineering and Applied Sciences,Class of 2019,420,Village_Dining
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,421
+College of Engineering and Applied Sciences,Class of 2019,421,Village_Dining
+College of Engineering and Applied Sciences,Class of 2019,DUC_Area,422
+College of Engineering and Applied Sciences,Class of 2019,422,DUC
+College of Engineering and Applied Sciences,Class of 2019,Bio_Psych,423
+College of Engineering and Applied Sciences,Class of 2019,423,DUC
+College of Engineering and Applied Sciences,Class of 2019,Chemistry,424
+College of Engineering and Applied Sciences,Class of 2019,424,DUC
+College of Engineering and Applied Sciences,Class of 2019,Engineering_Quad,425
+College of Engineering and Applied Sciences,Class of 2019,425,Stanleys
+College of Engineering and Applied Sciences,Class of 2019,South_40,426
+College of Engineering and Applied Sciences,Class of 2019,426,Bauer_Hall_Cafe
+College of Engineering and Applied Sciences,Class of 2019,South_40,427
+College of Engineering and Applied Sciences,Class of 2019,427,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Village,428
+College of Engineering and Applied Sciences,Class of 2019,428,DUC
+College of Engineering and Applied Sciences,Class of 2019,Village,429
+College of Engineering and Applied Sciences,Class of 2019,429,Loop_Dining
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,430
+College of Engineering and Applied Sciences,Class of 2019,430,DUC
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,431
+College of Engineering and Applied Sciences,Class of 2019,431,Off_Campus
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,432
+College of Engineering and Applied Sciences,Class of 2019,432,Subway
+College of Engineering and Applied Sciences,Class of 2019,AC_Frat_Row,433
+College of Engineering and Applied Sciences,Class of 2019,433,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Bauer_Law_School,434
+College of Engineering and Applied Sciences,Class of 2019,434,DUC
+College of Engineering and Applied Sciences,Class of 2019,Bauer_Law_School,435
+College of Engineering and Applied Sciences,Class of 2019,435,Off_Campus
+College of Engineering and Applied Sciences,Class of 2019,Bauer_Law_School,436
+College of Engineering and Applied Sciences,Class of 2019,436,Loop_Dining
+College of Engineering and Applied Sciences,Class of 2019,DUC_Area,437
+College of Engineering and Applied Sciences,Class of 2019,437,BD
+College of Engineering and Applied Sciences,Class of 2019,DUC_Area,438
+College of Engineering and Applied Sciences,Class of 2019,438,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Bio_Psych,439
+College of Engineering and Applied Sciences,Class of 2019,439,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Engineering_Quad,440
+College of Engineering and Applied Sciences,Class of 2019,440,DUC
+College of Engineering and Applied Sciences,Class of 2019,Engineering_Quad,441
+College of Engineering and Applied Sciences,Class of 2019,441,Whispers
+College of Engineering and Applied Sciences,Class of 2019,Brookings_Quad,442
+College of Engineering and Applied Sciences,Class of 2019,442,Bauer_Hall_Cafe
+College of Engineering and Applied Sciences,Class of 2019,Brookings_Quad,443
+College of Engineering and Applied Sciences,Class of 2019,443,DUC
+College of Engineering and Applied Sciences,Class of 2019,Brookings_Quad,444
+College of Engineering and Applied Sciences,Class of 2019,444,Off_Campus
+College of Engineering and Applied Sciences,Class of 2019,Brookings_Quad,445
+College of Engineering and Applied Sciences,Class of 2019,445,Whispers
+College of Arts and Sciences,Class of 2020,South_40,446
+College of Arts and Sciences,Class of 2020,446,BD
+College of Arts and Sciences,Class of 2020,Village,447
+College of Arts and Sciences,Class of 2020,447,Village_Dining
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,448
+College of Arts and Sciences,Class of 2020,448,DUC
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,449
+College of Arts and Sciences,Class of 2020,449,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,450
+College of Arts and Sciences,Class of 2020,450,Village_Dining
+College of Arts and Sciences,Class of 2020,Bauer_Law_School,451
+College of Arts and Sciences,Class of 2020,451,Hillman
+College of Arts and Sciences,Class of 2020,Bauer_Law_School,452
+College of Arts and Sciences,Class of 2020,452,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2020,Bio_Psych,453
+College of Arts and Sciences,Class of 2020,453,DUC
+College of Arts and Sciences,Class of 2020,Bio_Psych,454
+College of Arts and Sciences,Class of 2020,454,Holmes
+College of Arts and Sciences,Class of 2022,South_40,455
+College of Arts and Sciences,Class of 2022,455,BD
+College of Arts and Sciences,Class of 2022,South_40,456
+College of Arts and Sciences,Class of 2022,456,DUC
+College of Arts and Sciences,Class of 2022,South_40,457
+College of Arts and Sciences,Class of 2022,457,Einsteins
+College of Arts and Sciences,Class of 2022,Village,458
+College of Arts and Sciences,Class of 2022,458,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,459
+College of Arts and Sciences,Class of 2022,459,Village_Dining
+College of Arts and Sciences,Class of 2022,Bauer_Law_School,460
+College of Arts and Sciences,Class of 2022,460,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2022,Bauer_Law_School,461
+College of Arts and Sciences,Class of 2022,461,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,DUC_Area,462
+College of Arts and Sciences,Class of 2022,462,Einsteins
+College of Arts and Sciences,Class of 2022,Engineering_Quad,463
+College of Arts and Sciences,Class of 2022,463,Holmes
+College of Arts and Sciences,Class of 2022,Engineering_Quad,464
+College of Arts and Sciences,Class of 2022,464,Whispers
+College of Arts and Sciences,Class of 2022,Sam_Fox,465
+College of Arts and Sciences,Class of 2022,465,Off_Campus
+College of Arts and Sciences,Class of 2019,South_40,466
+College of Arts and Sciences,Class of 2019,466,BD
+College of Arts and Sciences,Class of 2019,South_40,467
+College of Arts and Sciences,Class of 2019,467,Whispers
+College of Arts and Sciences,Class of 2019,Village,468
+College of Arts and Sciences,Class of 2019,468,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2019,Village,469
+College of Arts and Sciences,Class of 2019,469,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2019,Village,470
+College of Arts and Sciences,Class of 2019,470,Village_Dining
+College of Arts and Sciences,Class of 2019,AC_Frat_Row,471
+College of Arts and Sciences,Class of 2019,471,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2019,AC_Frat_Row,472
+College of Arts and Sciences,Class of 2019,472,Einsteins
+College of Arts and Sciences,Class of 2019,AC_Frat_Row,473
+College of Arts and Sciences,Class of 2019,473,Village_Dining
+College of Arts and Sciences,Class of 2019,Bauer_Law_School,474
+College of Arts and Sciences,Class of 2019,474,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2019,Bauer_Law_School,475
+College of Arts and Sciences,Class of 2019,475,DUC
+College of Arts and Sciences,Class of 2019,Bauer_Law_School,476
+College of Arts and Sciences,Class of 2019,476,Einsteins
+College of Arts and Sciences,Class of 2019,Bauer_Law_School,477
+College of Arts and Sciences,Class of 2019,477,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2019,DUC_Area,478
+College of Arts and Sciences,Class of 2019,478,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2019,DUC_Area,479
+College of Arts and Sciences,Class of 2019,479,DUC
+College of Arts and Sciences,Class of 2019,DUC_Area,480
+College of Arts and Sciences,Class of 2019,480,Einsteins
+College of Arts and Sciences,Class of 2019,DUC_Area,481
+College of Arts and Sciences,Class of 2019,481,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2019,DUC_Area,482
+College of Arts and Sciences,Class of 2019,482,Village_Dining
+College of Arts and Sciences,Class of 2019,Brookings_Quad,483
+College of Arts and Sciences,Class of 2019,483,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2019,Brookings_Quad,484
+College of Arts and Sciences,Class of 2019,484,Einsteins
+College of Arts and Sciences,Class of 2019,Brookings_Quad,485
+College of Arts and Sciences,Class of 2019,485,Subway
+College of Arts and Sciences,Class of 2019,Brookings_Quad,486
+College of Arts and Sciences,Class of 2019,486,Village_Dining
+College of Arts and Sciences,Class of 2022,South_40,487
+College of Arts and Sciences,Class of 2022,487,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,Village,488
+College of Arts and Sciences,Class of 2022,488,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,489
+College of Arts and Sciences,Class of 2022,489,BD
+College of Arts and Sciences,Class of 2022,Bauer_Law_School,490
+College of Arts and Sciences,Class of 2022,490,DUC
+College of Arts and Sciences,Class of 2022,Bauer_Law_School,491
+College of Arts and Sciences,Class of 2022,491,Einsteins
+College of Arts and Sciences,Class of 2022,DUC_Area,492
+College of Arts and Sciences,Class of 2022,492,Holmes
+College of Arts and Sciences,Class of 2022,DUC_Area,493
+College of Arts and Sciences,Class of 2022,493,Whispers
+College of Arts and Sciences,Class of 2022,Chemistry,494
+College of Arts and Sciences,Class of 2022,494,Einsteins
+College of Arts and Sciences,Class of 2022,Brookings_Quad,495
+College of Arts and Sciences,Class of 2022,495,DUC
+College of Arts and Sciences,Class of 2022,Brown_School,496
+College of Arts and Sciences,Class of 2022,496,Holmes
+Olin Business School,Class of 2022,South_40,497
+Olin Business School,Class of 2022,497,Whispers
+Olin Business School,Class of 2022,Village,498
+Olin Business School,Class of 2022,498,Bauer_Hall_Cafe
+Olin Business School,Class of 2022,Village,499
+Olin Business School,Class of 2022,499,Whispers
+Olin Business School,Class of 2022,AC_Frat_Row,500
+Olin Business School,Class of 2022,500,BD
+Olin Business School,Class of 2022,AC_Frat_Row,501
+Olin Business School,Class of 2022,501,DUC
+Olin Business School,Class of 2022,Bauer_Law_School,502
+Olin Business School,Class of 2022,502,DUC
+Olin Business School,Class of 2022,Bauer_Law_School,503
+Olin Business School,Class of 2022,503,Einsteins
+Olin Business School,Class of 2022,Bauer_Law_School,504
+Olin Business School,Class of 2022,504,Whispers
+Olin Business School,Class of 2022,DUC_Area,505
+Olin Business School,Class of 2022,505,Bauer_Hall_Cafe
+Olin Business School,Class of 2022,DUC_Area,506
+Olin Business School,Class of 2022,506,BD
+Olin Business School,Class of 2022,DUC_Area,507
+Olin Business School,Class of 2022,507,DUC
+Olin Business School,Class of 2022,DUC_Area,508
+Olin Business School,Class of 2022,508,Einsteins
+Olin Business School,Class of 2022,DUC_Area,509
+Olin Business School,Class of 2022,509,Whispers
+Olin Business School,Class of 2022,Bio_Psych,510
+Olin Business School,Class of 2022,510,Holmes
+Olin Business School,Class of 2022,Bio_Psych,511
+Olin Business School,Class of 2022,511,Whispers
+Olin Business School,Class of 2022,Chemistry,512
+Olin Business School,Class of 2022,512,Holmes
+Olin Business School,Class of 2022,Chemistry,513
+Olin Business School,Class of 2022,513,Whispers
+Olin Business School,Class of 2022,Engineering_Quad,514
+Olin Business School,Class of 2022,514,Whispers
+Olin Business School,Class of 2022,Brookings_Quad,515
+Olin Business School,Class of 2022,515,Holmes
+Olin Business School,Class of 2022,Brookings_Quad,516
+Olin Business School,Class of 2022,516,Whispers
+Olin Business School,Class of 2022,Brown_School,517
+Olin Business School,Class of 2022,517,Holmes
+College of Arts and Sciences,Class of 2020,South_40,518
+College of Arts and Sciences,Class of 2020,518,DUC
+College of Arts and Sciences,Class of 2020,Village,519
+College of Arts and Sciences,Class of 2020,519,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,520
+College of Arts and Sciences,Class of 2020,520,DUC
+College of Arts and Sciences,Class of 2020,Bauer_Law_School,521
+College of Arts and Sciences,Class of 2020,521,Whispers
+College of Arts and Sciences,Class of 2020,DUC_Area,522
+College of Arts and Sciences,Class of 2020,522,DUC
+College of Arts and Sciences,Class of 2020,Bio_Psych,523
+College of Arts and Sciences,Class of 2020,523,Whispers
+College of Arts and Sciences,Class of 2020,Chemistry,524
+College of Arts and Sciences,Class of 2020,524,Whispers
+College of Arts and Sciences,Class of 2020,Engineering_Quad,525
+College of Arts and Sciences,Class of 2020,525,Stanleys
+College of Arts and Sciences,Class of 2020,Brookings_Quad,526
+College of Arts and Sciences,Class of 2020,526,Off_Campus
+College of Arts and Sciences,Class of 2020,Brown_School,527
+College of Arts and Sciences,Class of 2020,527,Hillman
+College of Arts and Sciences,Class of 2020,Sam_Fox,528
+College of Arts and Sciences,Class of 2020,528,Ettas
+Olin Business School,Class of 2019,South_40,529
+Olin Business School,Class of 2019,529,BD
+Olin Business School,Class of 2019,Village,530
+Olin Business School,Class of 2019,530,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,AC_Frat_Row,531
+Olin Business School,Class of 2019,531,DUC
+Olin Business School,Class of 2019,Bauer_Law_School,532
+Olin Business School,Class of 2019,532,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,DUC_Area,533
+Olin Business School,Class of 2019,533,DUC
+Olin Business School,Class of 2019,Bio_Psych,534
+Olin Business School,Class of 2019,534,Subway
+Olin Business School,Class of 2019,Chemistry,535
+Olin Business School,Class of 2019,535,Subway
+Olin Business School,Class of 2019,Brown_School,536
+Olin Business School,Class of 2019,536,DUC
+Olin Business School,Class of 2020,South_40,537
+Olin Business School,Class of 2020,537,BD
+Olin Business School,Class of 2020,Village,538
+Olin Business School,Class of 2020,538,Village_Dining
+Olin Business School,Class of 2020,AC_Frat_Row,539
+Olin Business School,Class of 2020,539,DUC
+Olin Business School,Class of 2020,AC_Frat_Row,540
+Olin Business School,Class of 2020,540,Einsteins
+Olin Business School,Class of 2020,AC_Frat_Row,541
+Olin Business School,Class of 2020,541,Subway
+Olin Business School,Class of 2020,AC_Frat_Row,542
+Olin Business School,Class of 2020,542,Village_Dining
+Olin Business School,Class of 2020,Bauer_Law_School,543
+Olin Business School,Class of 2020,543,Bauer_Hall_Cafe
+Olin Business School,Class of 2020,Bauer_Law_School,544
+Olin Business School,Class of 2020,544,DUC
+Olin Business School,Class of 2020,Bauer_Law_School,545
+Olin Business School,Class of 2020,545,Einsteins
+Olin Business School,Class of 2020,Bauer_Law_School,546
+Olin Business School,Class of 2020,546,Law_School_Cafeteria
+Olin Business School,Class of 2020,Bauer_Law_School,547
+Olin Business School,Class of 2020,547,Whispers
+Olin Business School,Class of 2020,DUC_Area,548
+Olin Business School,Class of 2020,548,Bauer_Hall_Cafe
+Olin Business School,Class of 2020,DUC_Area,549
+Olin Business School,Class of 2020,549,DUC
+Olin Business School,Class of 2020,DUC_Area,550
+Olin Business School,Class of 2020,550,Einsteins
+Olin Business School,Class of 2020,DUC_Area,551
+Olin Business School,Class of 2020,551,Subway
+Olin Business School,Class of 2020,DUC_Area,552
+Olin Business School,Class of 2020,552,Whispers
+Olin Business School,Class of 2020,Bio_Psych,553
+Olin Business School,Class of 2020,553,DUC
+Olin Business School,Class of 2020,Bio_Psych,554
+Olin Business School,Class of 2020,554,Holmes
+Olin Business School,Class of 2020,Bio_Psych,555
+Olin Business School,Class of 2020,555,Subway
+Olin Business School,Class of 2020,Bio_Psych,556
+Olin Business School,Class of 2020,556,Whispers
+Olin Business School,Class of 2020,Chemistry,557
+Olin Business School,Class of 2020,557,Bauer_Hall_Cafe
+Olin Business School,Class of 2020,Chemistry,558
+Olin Business School,Class of 2020,558,DUC
+Olin Business School,Class of 2020,Chemistry,559
+Olin Business School,Class of 2020,559,Subway
+Olin Business School,Class of 2020,Chemistry,560
+Olin Business School,Class of 2020,560,Whispers
+Olin Business School,Class of 2020,Engineering_Quad,561
+Olin Business School,Class of 2020,561,DUC
+Olin Business School,Class of 2020,Engineering_Quad,562
+Olin Business School,Class of 2020,562,Holmes
+Olin Business School,Class of 2020,Engineering_Quad,563
+Olin Business School,Class of 2020,563,Subway
+Olin Business School,Class of 2020,Engineering_Quad,564
+Olin Business School,Class of 2020,564,Whispers
+Olin Business School,Class of 2020,Brookings_Quad,565
+Olin Business School,Class of 2020,565,DUC
+Olin Business School,Class of 2020,Brookings_Quad,566
+Olin Business School,Class of 2020,566,Holmes
+Olin Business School,Class of 2020,Brookings_Quad,567
+Olin Business School,Class of 2020,567,Off_Campus
+Olin Business School,Class of 2020,Brookings_Quad,568
+Olin Business School,Class of 2020,568,Whispers
+College of Arts and Sciences,Class of 2020,South_40,569
+College of Arts and Sciences,Class of 2020,569,BD
+College of Arts and Sciences,Class of 2020,South_40,570
+College of Arts and Sciences,Class of 2020,570,Einsteins
+College of Arts and Sciences,Class of 2020,South_40,571
+College of Arts and Sciences,Class of 2020,571,Loop_Dining
+College of Arts and Sciences,Class of 2020,South_40,572
+College of Arts and Sciences,Class of 2020,572,Subway
+College of Arts and Sciences,Class of 2020,South_40,573
+College of Arts and Sciences,Class of 2020,573,Whispers
+College of Arts and Sciences,Class of 2020,Village,574
+College of Arts and Sciences,Class of 2020,574,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2020,Village,575
+College of Arts and Sciences,Class of 2020,575,DUC
+College of Arts and Sciences,Class of 2020,Village,576
+College of Arts and Sciences,Class of 2020,576,Einsteins
+College of Arts and Sciences,Class of 2020,Village,577
+College of Arts and Sciences,Class of 2020,577,Law_School_Cafeteria
+College of Arts and Sciences,Class of 2020,Village,578
+College of Arts and Sciences,Class of 2020,578,Loop_Dining
+College of Arts and Sciences,Class of 2020,Village,579
+College of Arts and Sciences,Class of 2020,579,Village_Dining
+College of Arts and Sciences,Class of 2020,Village,580
+College of Arts and Sciences,Class of 2020,580,Whispers
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,581
+College of Arts and Sciences,Class of 2020,581,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,582
+College of Arts and Sciences,Class of 2020,582,DUC
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,583
+College of Arts and Sciences,Class of 2020,583,Einsteins
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,584
+College of Arts and Sciences,Class of 2020,584,Loop_Dining
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,585
+College of Arts and Sciences,Class of 2020,585,Village_Dining
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,586
+College of Arts and Sciences,Class of 2020,586,Whispers
+College of Arts and Sciences,Class of 2020,DUC_Area,587
+College of Arts and Sciences,Class of 2020,587,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2020,DUC_Area,588
+College of Arts and Sciences,Class of 2020,588,DUC
+College of Arts and Sciences,Class of 2020,DUC_Area,589
+College of Arts and Sciences,Class of 2020,589,Einsteins
+College of Arts and Sciences,Class of 2020,DUC_Area,590
+College of Arts and Sciences,Class of 2020,590,Loop_Dining
+College of Arts and Sciences,Class of 2020,Brookings_Quad,591
+College of Arts and Sciences,Class of 2020,591,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2020,Brookings_Quad,592
+College of Arts and Sciences,Class of 2020,592,DUC
+College of Arts and Sciences,Class of 2020,Brookings_Quad,593
+College of Arts and Sciences,Class of 2020,593,Einsteins
+College of Arts and Sciences,Class of 2020,Brookings_Quad,594
+College of Arts and Sciences,Class of 2020,594,Hillman
+College of Arts and Sciences,Class of 2020,Brookings_Quad,595
+College of Arts and Sciences,Class of 2020,595,Loop_Dining
+College of Arts and Sciences,Class of 2020,Brookings_Quad,596
+College of Arts and Sciences,Class of 2020,596,Whispers
+College of Arts and Sciences,Class of 2020,Brown_School,597
+College of Arts and Sciences,Class of 2020,597,Bauer_Hall_Cafe
+College of Arts and Sciences,Class of 2020,Brown_School,598
+College of Arts and Sciences,Class of 2020,598,DUC
+College of Arts and Sciences,Class of 2020,Brown_School,599
+College of Arts and Sciences,Class of 2020,599,Einsteins
+College of Arts and Sciences,Class of 2020,Brown_School,600
+College of Arts and Sciences,Class of 2020,600,Off_Campus
+College of Arts and Sciences,Class of 2020,Brown_School,601
+College of Arts and Sciences,Class of 2020,601,Loop_Dining
+College of Arts and Sciences,Class of 2020,Brown_School,602
+College of Arts and Sciences,Class of 2020,602,Whispers
+Sam Fox College of Art and Architecture,Class of 2021,South_40,603
+Sam Fox College of Art and Architecture,Class of 2021,603,BD
+Sam Fox College of Art and Architecture,Class of 2021,South_40,604
+Sam Fox College of Art and Architecture,Class of 2021,604,Ettas
+Sam Fox College of Art and Architecture,Class of 2021,Village,605
+Sam Fox College of Art and Architecture,Class of 2021,605,Ettas
+Sam Fox College of Art and Architecture,Class of 2021,Village,606
+Sam Fox College of Art and Architecture,Class of 2021,606,Village_Dining
+Sam Fox College of Art and Architecture,Class of 2021,AC_Frat_Row,607
+Sam Fox College of Art and Architecture,Class of 2021,607,BD
+Sam Fox College of Art and Architecture,Class of 2021,DUC_Area,608
+Sam Fox College of Art and Architecture,Class of 2021,608,Einsteins
+Sam Fox College of Art and Architecture,Class of 2021,DUC_Area,609
+Sam Fox College of Art and Architecture,Class of 2021,609,Ettas
+Sam Fox College of Art and Architecture,Class of 2021,DUC_Area,610
+Sam Fox College of Art and Architecture,Class of 2021,610,Subway
+Sam Fox College of Art and Architecture,Class of 2021,Bio_Psych,611
+Sam Fox College of Art and Architecture,Class of 2021,611,Subway
+Sam Fox College of Art and Architecture,Class of 2021,Chemistry,612
+Sam Fox College of Art and Architecture,Class of 2021,612,Subway
+Sam Fox College of Art and Architecture,Class of 2021,Chemistry,613
+Sam Fox College of Art and Architecture,Class of 2021,613,Whispers
+Sam Fox College of Art and Architecture,Class of 2021,Engineering_Quad,614
+Sam Fox College of Art and Architecture,Class of 2021,614,BD
+Sam Fox College of Art and Architecture,Class of 2021,Engineering_Quad,615
+Sam Fox College of Art and Architecture,Class of 2021,615,Ettas
+Sam Fox College of Art and Architecture,Class of 2021,Brookings_Quad,616
+Sam Fox College of Art and Architecture,Class of 2021,616,Subway
+Sam Fox College of Art and Architecture,Class of 2021,Brookings_Quad,617
+Sam Fox College of Art and Architecture,Class of 2021,617,Whispers
+Sam Fox College of Art and Architecture,Class of 2021,Sam_Fox,618
+Sam Fox College of Art and Architecture,Class of 2021,618,BD
+Sam Fox College of Art and Architecture,Class of 2021,Sam_Fox,619
+Sam Fox College of Art and Architecture,Class of 2021,619,Ettas
+Sam Fox College of Art and Architecture,Class of 2021,Sam_Fox,620
+Sam Fox College of Art and Architecture,Class of 2021,620,Off_Campus
+Sam Fox College of Art and Architecture,Class of 2021,Northest_Corner,621
+Sam Fox College of Art and Architecture,Class of 2021,621,Ettas
+Sam Fox College of Art and Architecture,Class of 2021,Northest_Corner,622
+Sam Fox College of Art and Architecture,Class of 2021,622,Off_Campus
+Olin Business School,Class of 2021,South_40,623
+Olin Business School,Class of 2021,623,Bauer_Hall_Cafe
+Olin Business School,Class of 2021,South_40,624
+Olin Business School,Class of 2021,624,BD
+Olin Business School,Class of 2021,South_40,625
+Olin Business School,Class of 2021,625,DUC
+Olin Business School,Class of 2021,South_40,626
+Olin Business School,Class of 2021,626,Einsteins
+Olin Business School,Class of 2021,South_40,627
+Olin Business School,Class of 2021,627,Loop_Dining
+Olin Business School,Class of 2021,South_40,628
+Olin Business School,Class of 2021,628,Village_Dining
+Olin Business School,Class of 2021,Village,629
+Olin Business School,Class of 2021,629,Bauer_Hall_Cafe
+Olin Business School,Class of 2021,Village,630
+Olin Business School,Class of 2021,630,DUC
+Olin Business School,Class of 2021,Village,631
+Olin Business School,Class of 2021,631,Einsteins
+Olin Business School,Class of 2021,AC_Frat_Row,632
+Olin Business School,Class of 2021,632,BD
+Olin Business School,Class of 2021,AC_Frat_Row,633
+Olin Business School,Class of 2021,633,DUC
+Olin Business School,Class of 2021,AC_Frat_Row,634
+Olin Business School,Class of 2021,634,Einsteins
+Olin Business School,Class of 2021,AC_Frat_Row,635
+Olin Business School,Class of 2021,635,Village_Dining
+Olin Business School,Class of 2021,Bauer_Law_School,636
+Olin Business School,Class of 2021,636,Bauer_Hall_Cafe
+Olin Business School,Class of 2021,Bauer_Law_School,637
+Olin Business School,Class of 2021,637,BD
+Olin Business School,Class of 2021,Bauer_Law_School,638
+Olin Business School,Class of 2021,638,DUC
+Olin Business School,Class of 2021,Bauer_Law_School,639
+Olin Business School,Class of 2021,639,Einsteins
+Olin Business School,Class of 2021,Bauer_Law_School,640
+Olin Business School,Class of 2021,640,Subway
+Olin Business School,Class of 2021,Bauer_Law_School,641
+Olin Business School,Class of 2021,641,Village_Dining
+Olin Business School,Class of 2021,DUC_Area,642
+Olin Business School,Class of 2021,642,BD
+Olin Business School,Class of 2021,DUC_Area,643
+Olin Business School,Class of 2021,643,DUC
+Olin Business School,Class of 2021,DUC_Area,644
+Olin Business School,Class of 2021,644,Einsteins
+Olin Business School,Class of 2021,DUC_Area,645
+Olin Business School,Class of 2021,645,Subway
+Sam Fox College of Art and Architecture,Class of 2021,South_40,646
+Sam Fox College of Art and Architecture,Class of 2021,646,BD
+Sam Fox College of Art and Architecture,Class of 2021,Village,647
+Sam Fox College of Art and Architecture,Class of 2021,647,BD
+Sam Fox College of Art and Architecture,Class of 2021,AC_Frat_Row,648
+Sam Fox College of Art and Architecture,Class of 2021,648,DUC
+Sam Fox College of Art and Architecture,Class of 2021,Bauer_Law_School,649
+Sam Fox College of Art and Architecture,Class of 2021,649,BD
+Sam Fox College of Art and Architecture,Class of 2021,Bauer_Law_School,650
+Sam Fox College of Art and Architecture,Class of 2021,650,DUC
+Sam Fox College of Art and Architecture,Class of 2021,DUC_Area,651
+Sam Fox College of Art and Architecture,Class of 2021,651,BD
+Sam Fox College of Art and Architecture,Class of 2021,DUC_Area,652
+Sam Fox College of Art and Architecture,Class of 2021,652,DUC
+Sam Fox College of Art and Architecture,Class of 2021,Bio_Psych,653
+Sam Fox College of Art and Architecture,Class of 2021,653,DUC
+Sam Fox College of Art and Architecture,Class of 2021,Chemistry,654
+Sam Fox College of Art and Architecture,Class of 2021,654,DUC
+Sam Fox College of Art and Architecture,Class of 2021,Engineering_Quad,655
+Sam Fox College of Art and Architecture,Class of 2021,655,DUC
+Sam Fox College of Art and Architecture,Class of 2021,Brookings_Quad,656
+Sam Fox College of Art and Architecture,Class of 2021,656,Ettas
+Sam Fox College of Art and Architecture,Class of 2021,Brown_School,657
+Sam Fox College of Art and Architecture,Class of 2021,657,Ettas
+Sam Fox College of Art and Architecture,Class of 2021,Sam_Fox,658
+Sam Fox College of Art and Architecture,Class of 2021,658,Ettas
+Sam Fox College of Art and Architecture,Class of 2021,Northest_Corner,659
+Sam Fox College of Art and Architecture,Class of 2021,659,Ettas
+College of Arts and Sciences,Class of 2020,South_40,660
+College of Arts and Sciences,Class of 2020,660,
+College of Arts and Sciences,Class of 2020,Village,661
+College of Arts and Sciences,Class of 2020,661,
+College of Arts and Sciences,Class of 2020,AC_Frat_Row,662
+College of Arts and Sciences,Class of 2020,662,
+College of Arts and Sciences,Class of 2020,Bauer_Law_School,663
+College of Arts and Sciences,Class of 2020,663,
+College of Arts and Sciences,Class of 2020,DUC_Area,664
+College of Arts and Sciences,Class of 2020,664,
+College of Arts and Sciences,Class of 2020,Bio_Psych,665
+College of Arts and Sciences,Class of 2020,665,
+College of Arts and Sciences,Class of 2020,Chemistry,666
+College of Arts and Sciences,Class of 2020,666,
+College of Arts and Sciences,Class of 2020,Engineering_Quad,667
+College of Arts and Sciences,Class of 2020,667,
+College of Arts and Sciences,Class of 2020,Brookings_Quad,668
+College of Arts and Sciences,Class of 2020,668,
+College of Arts and Sciences,Class of 2020,Brown_School,669
+College of Arts and Sciences,Class of 2020,669,
+College of Arts and Sciences,Class of 2020,Sam_Fox,670
+College of Arts and Sciences,Class of 2020,670,
+College of Arts and Sciences,Class of 2020,Northest_Corner,671
+College of Arts and Sciences,Class of 2020,671,
+Olin Business School,Class of 2019,South_40,672
+Olin Business School,Class of 2019,672,BD
+Olin Business School,Class of 2019,South_40,673
+Olin Business School,Class of 2019,673,Einsteins
+Olin Business School,Class of 2019,South_40,674
+Olin Business School,Class of 2019,674,Whispers
+Olin Business School,Class of 2019,Village,675
+Olin Business School,Class of 2019,675,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,Village,676
+Olin Business School,Class of 2019,676,Einsteins
+Olin Business School,Class of 2019,Village,677
+Olin Business School,Class of 2019,677,Village_Dining
+Olin Business School,Class of 2019,AC_Frat_Row,678
+Olin Business School,Class of 2019,678,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,AC_Frat_Row,679
+Olin Business School,Class of 2019,679,Einsteins
+Olin Business School,Class of 2019,Bauer_Law_School,680
+Olin Business School,Class of 2019,680,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,Bauer_Law_School,681
+Olin Business School,Class of 2019,681,DUC
+Olin Business School,Class of 2019,Bauer_Law_School,682
+Olin Business School,Class of 2019,682,Einsteins
+Olin Business School,Class of 2019,Bauer_Law_School,683
+Olin Business School,Class of 2019,683,Law_School_Cafeteria
+Olin Business School,Class of 2019,Bauer_Law_School,684
+Olin Business School,Class of 2019,684,Village_Dining
+Olin Business School,Class of 2019,DUC_Area,685
+Olin Business School,Class of 2019,685,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,DUC_Area,686
+Olin Business School,Class of 2019,686,DUC
+Olin Business School,Class of 2019,DUC_Area,687
+Olin Business School,Class of 2019,687,Einsteins
+Olin Business School,Class of 2019,DUC_Area,688
+Olin Business School,Class of 2019,688,Law_School_Cafeteria
+Olin Business School,Class of 2019,DUC_Area,689
+Olin Business School,Class of 2019,689,Village_Dining
+Olin Business School,Class of 2019,South_40,690
+Olin Business School,Class of 2019,690,Einsteins
+Olin Business School,Class of 2019,Village,691
+Olin Business School,Class of 2019,691,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,AC_Frat_Row,692
+Olin Business School,Class of 2019,692,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,AC_Frat_Row,693
+Olin Business School,Class of 2019,693,Village_Dining
+Olin Business School,Class of 2019,Bauer_Law_School,694
+Olin Business School,Class of 2019,694,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,Bauer_Law_School,695
+Olin Business School,Class of 2019,695,Law_School_Cafeteria
+Olin Business School,Class of 2019,DUC_Area,696
+Olin Business School,Class of 2019,696,Einsteins
+Olin Business School,Class of 2019,Brown_School,697
+Olin Business School,Class of 2019,697,Hillman
+Olin Business School,Class of 2019,Sam_Fox,698
+Olin Business School,Class of 2019,698,Hillman
+Olin Business School,Class of 2019,South_40,699
+Olin Business School,Class of 2019,699,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,South_40,700
+Olin Business School,Class of 2019,700,BD
+Olin Business School,Class of 2019,South_40,701
+Olin Business School,Class of 2019,701,DUC
+Olin Business School,Class of 2019,South_40,702
+Olin Business School,Class of 2019,702,Einsteins
+Olin Business School,Class of 2019,South_40,703
+Olin Business School,Class of 2019,703,Village_Dining
+Olin Business School,Class of 2019,Village,704
+Olin Business School,Class of 2019,704,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,Village,705
+Olin Business School,Class of 2019,705,DUC
+Olin Business School,Class of 2019,Village,706
+Olin Business School,Class of 2019,706,Einsteins
+Olin Business School,Class of 2019,Village,707
+Olin Business School,Class of 2019,707,Village_Dining
+Olin Business School,Class of 2019,AC_Frat_Row,708
+Olin Business School,Class of 2019,708,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,AC_Frat_Row,709
+Olin Business School,Class of 2019,709,DUC
+Olin Business School,Class of 2019,AC_Frat_Row,710
+Olin Business School,Class of 2019,710,Einsteins
+Olin Business School,Class of 2019,AC_Frat_Row,711
+Olin Business School,Class of 2019,711,Subway
+Olin Business School,Class of 2019,AC_Frat_Row,712
+Olin Business School,Class of 2019,712,Village_Dining
+Olin Business School,Class of 2019,Bauer_Law_School,713
+Olin Business School,Class of 2019,713,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,Bauer_Law_School,714
+Olin Business School,Class of 2019,714,DUC
+Olin Business School,Class of 2019,Bauer_Law_School,715
+Olin Business School,Class of 2019,715,Einsteins
+Olin Business School,Class of 2019,Bauer_Law_School,716
+Olin Business School,Class of 2019,716,Subway
+Olin Business School,Class of 2019,Bauer_Law_School,717
+Olin Business School,Class of 2019,717,Whispers
+Olin Business School,Class of 2019,DUC_Area,718
+Olin Business School,Class of 2019,718,DUC
+Olin Business School,Class of 2019,DUC_Area,719
+Olin Business School,Class of 2019,719,Einsteins
+Olin Business School,Class of 2019,DUC_Area,720
+Olin Business School,Class of 2019,720,Subway
+Olin Business School,Class of 2019,DUC_Area,721
+Olin Business School,Class of 2019,721,Whispers
+Olin Business School,Class of 2019,Chemistry,722
+Olin Business School,Class of 2019,722,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,Chemistry,723
+Olin Business School,Class of 2019,723,DUC
+Olin Business School,Class of 2019,Chemistry,724
+Olin Business School,Class of 2019,724,Subway
+Olin Business School,Class of 2019,Chemistry,725
+Olin Business School,Class of 2019,725,Whispers
+Olin Business School,Class of 2019,Engineering_Quad,726
+Olin Business School,Class of 2019,726,Einsteins
+Olin Business School,Class of 2019,Engineering_Quad,727
+Olin Business School,Class of 2019,727,Holmes
+Olin Business School,Class of 2019,Engineering_Quad,728
+Olin Business School,Class of 2019,728,Stanleys
+Olin Business School,Class of 2019,Engineering_Quad,729
+Olin Business School,Class of 2019,729,Subway
+Olin Business School,Class of 2019,Engineering_Quad,730
+Olin Business School,Class of 2019,730,Whispers
+Olin Business School,Class of 2019,Sam_Fox,731
+Olin Business School,Class of 2019,731,Ettas
+Olin Business School,Class of 2019,Sam_Fox,732
+Olin Business School,Class of 2019,732,Subway
+Olin Business School,Class of 2019,Sam_Fox,733
+Olin Business School,Class of 2019,733,Whispers
+Olin Business School,Class of 2019,Northest_Corner,734
+Olin Business School,Class of 2019,734,Bauer_Hall_Cafe
+Olin Business School,Class of 2019,Northest_Corner,735
+Olin Business School,Class of 2019,735,DUC
+Olin Business School,Class of 2019,Northest_Corner,736
+Olin Business School,Class of 2019,736,Einsteins
+Olin Business School,Class of 2019,Northest_Corner,737
+Olin Business School,Class of 2019,737,Stanleys
+Olin Business School,Class of 2019,Northest_Corner,738
+Olin Business School,Class of 2019,738,Subway
+Olin Business School,Class of 2019,Northest_Corner,739
+Olin Business School,Class of 2019,739,Whispers
+Olin Business School,Class of 2020,South_40,740
+Olin Business School,Class of 2020,740,DUC
+Olin Business School,Class of 2020,Village,741
+Olin Business School,Class of 2020,741,Bauer_Hall_Cafe
+Olin Business School,Class of 2020,AC_Frat_Row,742
+Olin Business School,Class of 2020,742,Bauer_Hall_Cafe
+Olin Business School,Class of 2020,Bauer_Law_School,743
+Olin Business School,Class of 2020,743,Einsteins
+Olin Business School,Class of 2020,DUC_Area,744
+Olin Business School,Class of 2020,744,Einsteins
+Olin Business School,Class of 2020,Bio_Psych,745
+Olin Business School,Class of 2020,745,Whispers
+Olin Business School,Class of 2020,Chemistry,746
+Olin Business School,Class of 2020,746,Bauer_Hall_Cafe
+Olin Business School,Class of 2020,Engineering_Quad,747
+Olin Business School,Class of 2020,747,Off_Campus
+Olin Business School,Class of 2020,Brookings_Quad,748
+Olin Business School,Class of 2020,748,Off_Campus
+Olin Business School,Class of 2020,Brown_School,749
+Olin Business School,Class of 2020,749,Einsteins
+Olin Business School,Class of 2020,South_40,750
+Olin Business School,Class of 2020,750,BD
+Olin Business School,Class of 2020,South_40,751
+Olin Business School,Class of 2020,751,DUC
+Olin Business School,Class of 2020,South_40,752
+Olin Business School,Class of 2020,752,Einsteins
+Olin Business School,Class of 2020,South_40,753
+Olin Business School,Class of 2020,753,Law_School_Cafeteria
+Olin Business School,Class of 2020,South_40,754
+Olin Business School,Class of 2020,754,Loop_Dining
+Olin Business School,Class of 2020,South_40,755
+Olin Business School,Class of 2020,755,Subway
+Olin Business School,Class of 2020,Village,756
+Olin Business School,Class of 2020,756,Bauer_Hall_Cafe
+Olin Business School,Class of 2020,Village,757
+Olin Business School,Class of 2020,757,Einsteins
+Olin Business School,Class of 2020,Village,758
+Olin Business School,Class of 2020,758,Law_School_Cafeteria
+Olin Business School,Class of 2020,AC_Frat_Row,759
+Olin Business School,Class of 2020,759,Law_School_Cafeteria
+Olin Business School,Class of 2020,AC_Frat_Row,760
+Olin Business School,Class of 2020,760,Village_Dining
+Olin Business School,Class of 2020,Bauer_Law_School,761
+Olin Business School,Class of 2020,761,Bauer_Hall_Cafe
+Olin Business School,Class of 2020,Bauer_Law_School,762
+Olin Business School,Class of 2020,762,DUC
+Olin Business School,Class of 2020,Bauer_Law_School,763
+Olin Business School,Class of 2020,763,Einsteins
+Olin Business School,Class of 2020,Bauer_Law_School,764
+Olin Business School,Class of 2020,764,Law_School_Cafeteria
+Olin Business School,Class of 2020,Bauer_Law_School,765
+Olin Business School,Class of 2020,765,Subway
+Olin Business School,Class of 2020,DUC_Area,766
+Olin Business School,Class of 2020,766,DUC
+Olin Business School,Class of 2020,DUC_Area,767
+Olin Business School,Class of 2020,767,Einsteins
+Olin Business School,Class of 2020,DUC_Area,768
+Olin Business School,Class of 2020,768,Subway
+Olin Business School,Class of 2020,Bio_Psych,769
+Olin Business School,Class of 2020,769,Holmes
+Olin Business School,Class of 2020,Bio_Psych,770
+Olin Business School,Class of 2020,770,Subway
+Olin Business School,Class of 2020,Brookings_Quad,771
+Olin Business School,Class of 2020,771,Holmes
+Olin Business School,Class of 2020,Brown_School,772
+Olin Business School,Class of 2020,772,Hillman
+Olin Business School,Class of 2020,Brown_School,773
+Olin Business School,Class of 2020,773,Holmes
+College of Engineering and Applied Sciences,Grad Student,South_40,774
+College of Engineering and Applied Sciences,Grad Student,774,BD
+College of Engineering and Applied Sciences,Grad Student,Village,775
+College of Engineering and Applied Sciences,Grad Student,775,Village_Dining
+College of Engineering and Applied Sciences,Grad Student,AC_Frat_Row,776
+College of Engineering and Applied Sciences,Grad Student,776,Bauer_Hall_Cafe
+College of Engineering and Applied Sciences,Grad Student,Bauer_Law_School,777
+College of Engineering and Applied Sciences,Grad Student,777,Bauer_Hall_Cafe
+College of Engineering and Applied Sciences,Grad Student,DUC_Area,778
+College of Engineering and Applied Sciences,Grad Student,778,Bauer_Hall_Cafe
+College of Engineering and Applied Sciences,Grad Student,Bio_Psych,779
+College of Engineering and Applied Sciences,Grad Student,779,Bauer_Hall_Cafe
+College of Engineering and Applied Sciences,Grad Student,Chemistry,780
+College of Engineering and Applied Sciences,Grad Student,780,Bauer_Hall_Cafe
+College of Engineering and Applied Sciences,Grad Student,Engineering_Quad,781
+College of Engineering and Applied Sciences,Grad Student,781,Stanleys
+College of Engineering and Applied Sciences,Grad Student,Brookings_Quad,782
+College of Engineering and Applied Sciences,Grad Student,782,Stanleys
+College of Engineering and Applied Sciences,Grad Student,Brown_School,783
+College of Engineering and Applied Sciences,Grad Student,783,Stanleys
+College of Engineering and Applied Sciences,Grad Student,Sam_Fox,784
+College of Engineering and Applied Sciences,Grad Student,784,Stanleys
+College of Engineering and Applied Sciences,Grad Student,Northest_Corner,785
+College of Engineering and Applied Sciences,Grad Student,785,Stanleys
+College of Arts and Sciences,Class of 2022,South_40,786
+College of Arts and Sciences,Class of 2022,786,DUC
+College of Arts and Sciences,Class of 2022,Village,787
+College of Arts and Sciences,Class of 2022,787,BD
+College of Arts and Sciences,Class of 2022,AC_Frat_Row,788
+College of Arts and Sciences,Class of 2022,788,Whispers
+College of Arts and Sciences,Class of 2022,Bauer_Law_School,789
+College of Arts and Sciences,Class of 2022,789,DUC
+College of Arts and Sciences,Class of 2022,DUC_Area,790
+College of Arts and Sciences,Class of 2022,790,BD
+College of Arts and Sciences,Class of 2022,Bio_Psych,791
+College of Arts and Sciences,Class of 2022,791,Whispers
+College of Arts and Sciences,Class of 2022,Chemistry,792
+College of Arts and Sciences,Class of 2022,792,Hillman
+College of Arts and Sciences,Class of 2022,Brookings_Quad,793
+College of Arts and Sciences,Class of 2022,793,Whispers
+College of Arts and Sciences,Class of 2022,Brown_School,794
+College of Arts and Sciences,Class of 2022,794,Whispers
+College of Engineering and Applied Sciences,Grad Student,South_40,795
+College of Engineering and Applied Sciences,Grad Student,795,BD
+College of Engineering and Applied Sciences,Grad Student,Village,796
+College of Engineering and Applied Sciences,Grad Student,796,Village_Dining
+College of Engineering and Applied Sciences,Grad Student,AC_Frat_Row,797
+College of Engineering and Applied Sciences,Grad Student,797,DUC
+College of Engineering and Applied Sciences,Grad Student,AC_Frat_Row,798
+College of Engineering and Applied Sciences,Grad Student,798,Village_Dining
+College of Engineering and Applied Sciences,Grad Student,DUC_Area,799
+College of Engineering and Applied Sciences,Grad Student,799,DUC
+College of Engineering and Applied Sciences,Grad Student,Chemistry,800
+College of Engineering and Applied Sciences,Grad Student,800,DUC
+College of Engineering and Applied Sciences,Grad Student,Chemistry,801
+College of Engineering and Applied Sciences,Grad Student,801,Holmes
+College of Engineering and Applied Sciences,Grad Student,Engineering_Quad,802
+College of Engineering and Applied Sciences,Grad Student,802,DUC
+College of Engineering and Applied Sciences,Grad Student,Engineering_Quad,803
+College of Engineering and Applied Sciences,Grad Student,803,Holmes
+College of Engineering and Applied Sciences,Grad Student,Engineering_Quad,804
+College of Engineering and Applied Sciences,Grad Student,804,Stanleys
+College of Engineering and Applied Sciences,Grad Student,Brookings_Quad,805
+College of Engineering and Applied Sciences,Grad Student,805,Holmes
+College of Engineering and Applied Sciences,Grad Student,Brown_School,806
+College of Engineering and Applied Sciences,Grad Student,806,DUC
+College of Engineering and Applied Sciences,Grad Student,Brown_School,807
+College of Engineering and Applied Sciences,Grad Student,807,Hillman
+College of Engineering and Applied Sciences,Grad Student,Brown_School,808
+College of Engineering and Applied Sciences,Grad Student,808,Holmes
+Sam Fox College of Art and Architecture,Class of 2019,South_40,809
+Sam Fox College of Art and Architecture,Class of 2019,809,BD
+Sam Fox College of Art and Architecture,Class of 2019,Village,810
+Sam Fox College of Art and Architecture,Class of 2019,810,DUC
+Sam Fox College of Art and Architecture,Class of 2019,AC_Frat_Row,811
+Sam Fox College of Art and Architecture,Class of 2019,811,BD
+Sam Fox College of Art and Architecture,Class of 2019,Bio_Psych,812
+Sam Fox College of Art and Architecture,Class of 2019,812,Hillman
+Sam Fox College of Art and Architecture,Class of 2019,Chemistry,813
+Sam Fox College of Art and Architecture,Class of 2019,813,DUC
+Sam Fox College of Art and Architecture,Class of 2019,Engineering_Quad,814
+Sam Fox College of Art and Architecture,Class of 2019,814,Hillman
+Sam Fox College of Art and Architecture,Class of 2019,Brookings_Quad,815
+Sam Fox College of Art and Architecture,Class of 2019,815,Hillman
+Sam Fox College of Art and Architecture,Class of 2019,Brookings_Quad,816
+Sam Fox College of Art and Architecture,Class of 2019,816,Off_Campus
+Sam Fox College of Art and Architecture,Class of 2019,Brown_School,817
+Sam Fox College of Art and Architecture,Class of 2019,817,Ettas
+Sam Fox College of Art and Architecture,Class of 2019,Brown_School,818
+Sam Fox College of Art and Architecture,Class of 2019,818,Hillman
+Sam Fox College of Art and Architecture,Class of 2019,Sam_Fox,819
+Sam Fox College of Art and Architecture,Class of 2019,819,Ettas
+Sam Fox College of Art and Architecture,Class of 2019,Sam_Fox,820
+Sam Fox College of Art and Architecture,Class of 2019,820,Hillman
+Sam Fox College of Art and Architecture,Class of 2019,Northest_Corner,821
+Sam Fox College of Art and Architecture,Class of 2019,821,Hillman
+College of Engineering and Applied Sciences,Class of 2022,South_40,822
+College of Engineering and Applied Sciences,Class of 2022,822,BD
+College of Engineering and Applied Sciences,Class of 2022,South_40,823
+College of Engineering and Applied Sciences,Class of 2022,823,DUC
+College of Engineering and Applied Sciences,Class of 2022,South_40,824
+College of Engineering and Applied Sciences,Class of 2022,824,Einsteins
+College of Engineering and Applied Sciences,Class of 2022,South_40,825
+College of Engineering and Applied Sciences,Class of 2022,825,Village_Dining
+College of Engineering and Applied Sciences,Class of 2022,Village,826
+College of Engineering and Applied Sciences,Class of 2022,826,DUC
+College of Engineering and Applied Sciences,Class of 2022,AC_Frat_Row,827
+College of Engineering and Applied Sciences,Class of 2022,827,BD
+College of Engineering and Applied Sciences,Class of 2022,AC_Frat_Row,828
+College of Engineering and Applied Sciences,Class of 2022,828,DUC
+College of Engineering and Applied Sciences,Class of 2022,DUC_Area,829
+College of Engineering and Applied Sciences,Class of 2022,829,BD
+College of Engineering and Applied Sciences,Class of 2022,DUC_Area,830
+College of Engineering and Applied Sciences,Class of 2022,830,DUC
+College of Engineering and Applied Sciences,Class of 2022,Bio_Psych,831
+College of Engineering and Applied Sciences,Class of 2022,831,BD
+College of Engineering and Applied Sciences,Class of 2022,Bio_Psych,832
+College of Engineering and Applied Sciences,Class of 2022,832,DUC
+College of Engineering and Applied Sciences,Class of 2022,Engineering_Quad,833
+College of Engineering and Applied Sciences,Class of 2022,833,BD
+College of Engineering and Applied Sciences,Class of 2022,Engineering_Quad,834
+College of Engineering and Applied Sciences,Class of 2022,834,DUC
+College of Engineering and Applied Sciences,Class of 2022,Brookings_Quad,835
+College of Engineering and Applied Sciences,Class of 2022,835,BD
+College of Engineering and Applied Sciences,Class of 2022,Brookings_Quad,836
+College of Engineering and Applied Sciences,Class of 2022,836,DUC
+College of Engineering and Applied Sciences,Class of 2022,Brown_School,837
+College of Engineering and Applied Sciences,Class of 2022,837,DUC
